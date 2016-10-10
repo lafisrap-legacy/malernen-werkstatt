@@ -117,7 +117,13 @@ $(document).ready(function() {
         init: function() {
 
             // MixItUp plugin
-            $('#portfoliolist').mixItUp();
+            $('#themeslist').mixItUp();
+            $('#themeslist2').mixItUp( {
+                selectors: {
+                    target: '.mix2',
+                    filter: '.filter2'
+                }
+            } );
 
         },
 

@@ -510,7 +510,7 @@ aside.cta-quote span.quote {
   width: 100%;
   margin: auto;
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -790,7 +790,8 @@ aside.cta-quote span.quote {
 .portfolio-filter #filters li {
   display: inline-block;
 }
-.portfolio-filter #filters li .filter {
+.portfolio-filter #filters li .filter,
+.portfolio-filter #filters li .filter2 {
   display: block;
   cursor: pointer;
   padding: 10px 15px;
@@ -806,25 +807,26 @@ aside.cta-quote span.quote {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-.portfolio-filter #filters li .filter.active {
+.portfolio-filter #filters li .filter.active,
+.portfolio-filter #filters li .filter2.active {
   background-color: #41C4AB;
   color: white;
   border-color: #41C4AB;
 }
-#portfoliolist .mix {
+.mixitlist .mixit {
   width: 31%;
   margin: 1%;
   display: none;
   float: left;
   overflow: hidden;
 }
-#portfoliolist .mix .portfolio-wrapper {
+.mixitlist .mixit .portfolio-wrapper {
   overflow: hidden;
   position: relative !important;
   background: #222;
   cursor: pointer;
 }
-#portfoliolist .mix .portfolio-wrapper img {
+.mixitlist .mixit .portfolio-wrapper img {
   max-width: 100%;
   position: relative;
   -webkit-filter: grayscale(0);
@@ -833,11 +835,11 @@ aside.cta-quote span.quote {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-#portfoliolist .mix .portfolio-wrapper img:hover {
+.mixitlist .mixit .portfolio-wrapper img:hover {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
 }
-#portfoliolist .mix .portfolio-wrapper .caption {
+.mixitlist .mixit .portfolio-wrapper .caption {
   position: absolute;
   width: 100%;
   height: 75px;
@@ -846,7 +848,7 @@ aside.cta-quote span.quote {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-bg {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-bg {
   background: #41C4AB;
   width: 100%;
   height: 100%;
@@ -854,25 +856,25 @@ aside.cta-quote span.quote {
   top: 0;
   left: 0;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-text {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-text {
   color: white;
   position: relative;
   z-index: 500;
   padding: 15px 8px;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-text a.text-title {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-text a.text-title {
   color: white;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-text .text-category {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-text .text-category {
   display: block;
   font-size: 12px;
 }
-#portfoliolist .mix:hover .portfolio-wrapper .caption {
+.mixitlist .mixit:hover .portfolio-wrapper .caption {
   bottom: 0px;
 }
 /*  #Mobile (Portrait) - Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
-  #portfoliolist .mix {
+  .mixitlist .mixit {
     width: 48%;
     margin: 1%;
   }
