@@ -1,8 +1,3 @@
-/*!
- * Vitality v1.3.8 (http://themes.startbootstrap.com/vitality-v1.3.8)
- * Copyright 2013-2016 Start Bootstrap Themes
- * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
- */
 html,
 body {
   height: 100%;
@@ -35,7 +30,7 @@ input.form-control {
   border-radius: 0 !important;
 }
 input.form-control:focus {
-  border-color: #F26F21;
+  border-color: #41C4AB;
   box-shadow: none;
 }
 .btn,
@@ -47,8 +42,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: white;
-  background-color: #F26F21;
-  border-color: #F26F21;
+  background-color: #41C4AB;
+  border-color: #41C4AB;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -60,8 +55,8 @@ input.form-control:focus {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #ed2a1d;
-  border-color: #ec2114;
+  background-color: #38b49c;
+  border-color: #35ac95;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -86,11 +81,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #F26F21;
-  border-color: #F26F21;
+  background-color: #41C4AB;
+  border-color: #41C4AB;
 }
 .btn-primary .badge {
-  color: #F26F21;
+  color: #41C4AB;
   background-color: white;
 }
 body {
@@ -99,7 +94,7 @@ body {
   font-weight: 300;
 }
 a {
-  color: #F26F21;
+  color: #41C4AB;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -151,7 +146,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #F26F21;
+  border-color: #41C4AB;
 }
 @media (min-width: 768px) {
   hr {
@@ -166,7 +161,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #F26F21;
+  color: #41C4AB;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -177,12 +172,12 @@ hr.colored {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #F26F21;
+  color: #41C4AB;
   background-color: white;
   border-radius: 0;
 }
 .navbar-default {
-  background-color: #F26F21;
+  background-color: #41C4AB;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
@@ -470,7 +465,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #F26F21 !important;
+  background-color: #41C4AB !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -510,7 +505,7 @@ aside.cta-quote span.quote {
   width: 100%;
   margin: auto;
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -551,7 +546,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #F26F21 !important;
+  background-color: #41C4AB !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -666,7 +661,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #F26F21 !important;
+  background-color: #41C4AB !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -790,7 +785,7 @@ aside.cta-quote span.quote {
 .portfolio-filter #filters li {
   display: inline-block;
 }
-.portfolio-filter #filters li .filter {
+.portfolio-filter #filters li .mixfilter {
   display: block;
   cursor: pointer;
   padding: 10px 15px;
@@ -806,25 +801,25 @@ aside.cta-quote span.quote {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-.portfolio-filter #filters li .filter.active {
-  background-color: #F26F21;
+.portfolio-filter #filters li .mixfilter.active {
+  background-color: #41C4AB;
   color: white;
-  border-color: #F26F21;
+  border-color: #41C4AB;
 }
-#portfoliolist .mix {
+.mixitlist .mixit {
   width: 31%;
   margin: 1%;
   display: none;
   float: left;
   overflow: hidden;
 }
-#portfoliolist .mix .portfolio-wrapper {
+.mixitlist .mixit .portfolio-wrapper {
   overflow: hidden;
   position: relative !important;
   background: #222;
   cursor: pointer;
 }
-#portfoliolist .mix .portfolio-wrapper img {
+.mixitlist .mixit .portfolio-wrapper img {
   max-width: 100%;
   position: relative;
   -webkit-filter: grayscale(0);
@@ -833,11 +828,11 @@ aside.cta-quote span.quote {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-#portfoliolist .mix .portfolio-wrapper img:hover {
+.mixitlist .mixit .portfolio-wrapper img:hover {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
 }
-#portfoliolist .mix .portfolio-wrapper .caption {
+.mixitlist .mixit .portfolio-wrapper .caption {
   position: absolute;
   width: 100%;
   height: 75px;
@@ -846,33 +841,33 @@ aside.cta-quote span.quote {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-bg {
-  background: #F26F21;
+.mixitlist .mixit .portfolio-wrapper .caption .caption-bg {
+  background: #41C4AB;
   width: 100%;
   height: 100%;
   position: absolute;
   top: 0;
   left: 0;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-text {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-text {
   color: white;
   position: relative;
   z-index: 500;
   padding: 15px 8px;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-text a.text-title {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-text a.text-title {
   color: white;
 }
-#portfoliolist .mix .portfolio-wrapper .caption .caption-text .text-category {
+.mixitlist .mixit .portfolio-wrapper .caption .caption-text .text-category {
   display: block;
   font-size: 12px;
 }
-#portfoliolist .mix:hover .portfolio-wrapper .caption {
+.mixitlist .mixit:hover .portfolio-wrapper .caption {
   bottom: 0px;
 }
 /*  #Mobile (Portrait) - Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
-  #portfoliolist .mix {
+  .mixitlist .mixit {
     width: 48%;
     margin: 1%;
   }
@@ -988,7 +983,7 @@ aside.cta-quote span.quote {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #F26F21;
+  color: #41C4AB;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
@@ -1035,7 +1030,7 @@ footer.footer .copyright p.small {
 }
 .btn-outline-light:hover,
 .btn-outline-light:focus {
-  color: #F26F21;
+  color: #41C4AB;
   background: white;
   outline: none;
 }
@@ -1050,8 +1045,8 @@ footer.footer .copyright p.small {
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
   color: white;
-  background: #F26F21;
-  border-color: #F26F21;
+  background: #41C4AB;
+  border-color: #41C4AB;
   outline: none;
 }
 .btn {
@@ -1078,7 +1073,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #F26F21;
+  background-color: #41C4AB;
   color: white;
 }
 .btn-full-width:focus {

@@ -2,13 +2,22 @@
 
 ## Überblick
 
-## Bootstrap Website
+
+
+
+## maspielen.de Website
+
+* In less hineinschauen
+* Design von Beispiel übernehmen
+
 
 ### Resourcen
+
 * Video für Hauptseite
 * Logo
 * Schriftart
 * Bilder von allen Beteiligten (400 x 400, jpg)
+* 5 Zitate mit Bildern zu Yaylas Wiese
 
 ### Themen
 
@@ -19,7 +28,15 @@
 #### Vater & Sohn
 * Bilder scannen für alle vier Folgen
 
+
+
+
 ## Asciidoc / make
+
+### epub
+
+* css und converter Dateien pro Projekt
+
 
 ## Spiele
 
@@ -30,6 +47,8 @@
 
 
 ### 3. Spiel
+
+
 
 ## Film
 
