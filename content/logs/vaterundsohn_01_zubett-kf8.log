@@ -16,7 +16,7 @@ Info(prcgen):I1047: Added metadata dc:Contributor  "Michael Schmidt"
 Info(prcgen):I1047: Added metadata dc:Rights       "?"
 Info(prcgen):I1002: Parsing files  0000001
 Info(cssparser):I10004: @rules other than @import, @charset and @font-face are not supported.
-Warning(prcgen):W14010: media file not found  /tmp/mobi-LF0Wiq/OEBPS/images/avatars/default.jpg
+Warning(prcgen):W14010: media file not found  /tmp/mobi-nxYBq5/OEBPS/images/avatars/default.jpg
 Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1015: Building PRC file
 Info(prcgen):I1006: Resolving hyperlinks

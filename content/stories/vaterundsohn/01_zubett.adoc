@@ -14,16 +14,16 @@ endif::[]
 
 :imagesdir: images
 
-[role="chapter-start"]
+// [role="chapter-start"]
 
 image::01_zubett_01.jpg[]
-Vater bringt Sohn ins Bett. 
-Er sagt: "Mach schön die Augen zu! Schlaf ein! Gute Nacht!"
+[s]#Vater# [p]#bringt# [o]#Sohn# ins Bett. 
+[s]#Er# [p]#sagt#: "[p]#Mach# schön [o]#die Augen# [p]#zu#! [p]#Schlaf ein#! Gute Nacht!"
 
 image::01_zubett_02.jpg[]
-Vater will leise davongehen. 
-Sohn springt auf und schreit: 
-"Papa, Papa, ich bin noch gar nicht müde!"
+[s]#Vater# [p]#will# leise [p]#davongehen#. 
+[s]#Sohn# [p]#springt auf# und [p]#schreit#: 
+"[s]#Papa, Papa#, ich [p]#bin# noch gar nicht müde!"
     
 image::01_zubett_03.jpg[]
 Papa spielt mit Sohn ein bisschen "Schubkarre". 

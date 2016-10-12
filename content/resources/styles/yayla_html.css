@@ -1,0 +1,39 @@
+@import(asciidoctor.css)
+
+body {}
+
+.paragraph p {
+	font-size: 1.8em;
+}
+
+.s, .p, .o {
+    position: relative;
+    display: inline-block;
+}
+
+.s:before, .p:before, .o:before {
+    position: absolute;
+    background-size: 100% 100%;
+    display: inline-block;
+    margin-left: -15%;
+    margin-top: -6px;
+    width: 135%; 
+    height: 135%;
+    content:"";
+    z-index: -1;
+}
+
+.s:before {
+	background-image: url(images/markup/einkreisen1.png);
+    display: inline-block;
+}
+
+.p:before {
+	background-image: url(images/markup/einkreisen2.png);
+    display: inline-block;
+}
+
+.o:before {
+	background-image: url(images/markup/einkreisen3.png);
+    display: inline-block;
+}

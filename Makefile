@@ -14,9 +14,10 @@ vpath %.adoc content/stories/vaterundsohn
 alltopics: vaterundsohn_01_zubett.html vaterundsohn_01_zubett.pdf vaterundsohn_01_zubett.epub vaterundsohn_01_zubett.mobi\
 	vitality-yayla.css
 
-vaterundsohn_01_zubett.html: 01_zubett.adoc $(ls content/stories/vaterundsohn/images/01*)
-	asciidoctor -D public/html content/stories/vaterundsohn/01_zubett.adoc -o vaterundsohn_01_zubett.html
+vaterundsohn_01_zubett.html: 01_zubett.adoc $(ls content/stories/vaterundsohn/images/01*) content/resources/styles/yayla_html.css
+	asciidoctor -D public/html content/stories/vaterundsohn/01_zubett.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_01_zubett.html
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/01* public/html/images
+	cp -r content/resources/images/markup public/html/images
 
 vaterundsohn_01_zubett.pdf: 01_zubett.adoc $(ls content/stories/vaterundsohn/images/01*)
 	asciidoctor-pdf -D public/pdf content/stories/vaterundsohn/01_zubett.adoc -a pdf-stylesdir=content/resources/themes -a pdf-style=yayla -a pdf-fontsdir=content/resources/fonts -o vaterundsohn_01_zubett.pdf
