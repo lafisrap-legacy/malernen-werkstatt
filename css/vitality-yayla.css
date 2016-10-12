@@ -16,7 +16,8 @@ section {
 }
 .bg-dark {
   color: white;
-  background-color: #222;
+  background-color: #48b9b7;
+  background: linear-gradient(#b3ce48, #48b9b7);
 }
 @media (max-width: 767px) {
   section {
@@ -24,13 +25,13 @@ section {
   }
 }
 .owl-theme .owl-controls .owl-page span {
-  background: rgba(34, 34, 34, 0.5);
+  background: rgba(72, 185, 183, 0.5);
 }
 input.form-control {
   border-radius: 0 !important;
 }
 input.form-control:focus {
-  border-color: #41C4AB;
+  border-color: #b3ce48;
   box-shadow: none;
 }
 .btn,
@@ -42,8 +43,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: white;
-  background-color: #41C4AB;
-  border-color: #41C4AB;
+  background-color: #b3ce48;
+  border-color: #b3ce48;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -55,8 +56,8 @@ input.form-control:focus {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #38b49c;
-  border-color: #35ac95;
+  background-color: #aac735;
+  border-color: #a3bf33;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -81,11 +82,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #41C4AB;
-  border-color: #41C4AB;
+  background-color: #b3ce48;
+  border-color: #b3ce48;
 }
 .btn-primary .badge {
-  color: #41C4AB;
+  color: #b3ce48;
   background-color: white;
 }
 body {
@@ -94,7 +95,7 @@ body {
   font-weight: 300;
 }
 a {
-  color: #41C4AB;
+  color: #b3ce48;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -146,7 +147,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #41C4AB;
+  border-color: #b3ce48;
 }
 @media (min-width: 768px) {
   hr {
@@ -161,7 +162,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #41C4AB;
+  color: #b3ce48;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -172,12 +173,12 @@ hr.colored {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #41C4AB;
+  color: #b3ce48;
   background-color: white;
   border-radius: 0;
 }
 .navbar-default {
-  background-color: #41C4AB;
+  background-color: #b3ce48;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
@@ -191,7 +192,8 @@ hr.colored {
   border-color: rgba(255, 255, 255, 0.5);
 }
 .navbar-inverse {
-  background-color: #222;
+  background-color: #48b9b7;
+  background: linear-gradient(#93ce68, #68b997);
 }
 .navbar-default,
 .navbar-inverse {
@@ -260,7 +262,7 @@ header {
   display: block;
   height: auto;
   width: auto;
-  background-color: #222;
+  background-color: #48b9b7;
   background: no-repeat center center;
   background-attachment: scroll;
   -webkit-background-size: cover;
@@ -374,7 +376,7 @@ header.video .scroll-down {
 }
 aside.cta-quote {
   color: white;
-  background-color: #222;
+  background-color: #48b9b7;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -465,7 +467,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #41C4AB !important;
+  background-color: #b3ce48 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -546,7 +548,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #41C4AB !important;
+  background-color: #b3ce48 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -570,7 +572,7 @@ aside.cta-quote span.quote {
   width: 75px;
   line-height: 70px;
   text-align: center;
-  border: 3px solid #222;
+  border: 3px solid #48b9b7;
   border-radius: 100%;
   font-size: 30px;
 }
@@ -611,10 +613,10 @@ aside.cta-quote span.quote {
 .portfolio-carousel {
   padding: 0;
   color: white;
-  background-color: #222;
+  background-color: #48b9b7;
 }
 .portfolio-carousel .item {
-  background-color: #222;
+  background-color: #48b9b7;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -661,7 +663,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #41C4AB !important;
+  background-color: #b3ce48 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -794,17 +796,17 @@ aside.cta-quote span.quote {
   font-weight: 900;
   letter-spacing: 1px;
   font-size: 12px;
-  color: #222;
+  color: #48b9b7;
   background: transparent;
-  border: 1px solid #222;
+  border: 1px solid #48b9b7;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
 .portfolio-filter #filters li .mixfilter.active {
-  background-color: #41C4AB;
+  background-color: #b3ce48;
   color: white;
-  border-color: #41C4AB;
+  border-color: #b3ce48;
 }
 .mixitlist .mixit {
   width: 31%;
@@ -816,7 +818,7 @@ aside.cta-quote span.quote {
 .mixitlist .mixit .portfolio-wrapper {
   overflow: hidden;
   position: relative !important;
-  background: #222;
+  background: #48b9b7;
   cursor: pointer;
 }
 .mixitlist .mixit .portfolio-wrapper img {
@@ -842,7 +844,7 @@ aside.cta-quote span.quote {
   transition: all 0.5s;
 }
 .mixitlist .mixit .portfolio-wrapper .caption .caption-bg {
-  background: #41C4AB;
+  background: #b3ce48;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -874,7 +876,7 @@ aside.cta-quote span.quote {
 }
 .pricing {
   color: white;
-  background-color: #222;
+  background-color: #48b9b7;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -884,11 +886,11 @@ aside.cta-quote span.quote {
 .pricing .pricing-item {
   text-align: center;
   background: white;
-  color: #222;
+  color: #48b9b7;
   padding: 30px;
-  -webkit-box-shadow: 0px 0px 30px 5px rgba(34, 34, 34, 0.75);
-  -moz-box-shadow: 0px 0px 30px 5px rgba(34, 34, 34, 0.75);
-  box-shadow: 0px 0px 30px 5px rgba(34, 34, 34, 0.75);
+  -webkit-box-shadow: 0px 0px 30px 5px rgba(72, 185, 183, 0.75);
+  -moz-box-shadow: 0px 0px 30px 5px rgba(72, 185, 183, 0.75);
+  box-shadow: 0px 0px 30px 5px rgba(72, 185, 183, 0.75);
   z-index: 1;
   margin-bottom: 30px;
 }
@@ -943,7 +945,7 @@ aside.cta-quote span.quote {
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #e1e1e1;
+  border-bottom: 1px solid #ffffff;
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -976,17 +978,17 @@ aside.cta-quote span.quote {
 }
 .floating-label-form-group::not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #e1e1e1;
+  border-left: 1px solid #ffffff;
 }
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #41C4AB;
+  color: #b3ce48;
 }
 form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #e1e1e1;
+  border-top: 1px solid #ffffff;
 }
 footer.footer {
   color: rgba(255, 255, 255, 0.7);
@@ -1030,13 +1032,13 @@ footer.footer .copyright p.small {
 }
 .btn-outline-light:hover,
 .btn-outline-light:focus {
-  color: #41C4AB;
+  color: #b3ce48;
   background: white;
   outline: none;
 }
 .btn-outline-dark {
-  color: #222;
-  border: 1px solid #222;
+  color: #48b9b7;
+  border: 1px solid #48b9b7;
   background: transparent;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -1045,8 +1047,8 @@ footer.footer .copyright p.small {
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
   color: white;
-  background: #41C4AB;
-  border-color: #41C4AB;
+  background: #b3ce48;
+  border-color: #b3ce48;
   outline: none;
 }
 .btn {
@@ -1064,7 +1066,7 @@ footer.footer .copyright p.small {
 .btn-full-width {
   border: 0;
   border-radius: 0;
-  background-color: #222;
+  background-color: #48b9b7;
   color: white;
   padding: 50px 0;
   font-size: 26px;
@@ -1073,7 +1075,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #41C4AB;
+  background-color: #b3ce48;
   color: white;
 }
 .btn-full-width:focus {
