@@ -16,8 +16,7 @@ Info(prcgen):I1047: Added metadata dc:Contributor  "Michael Schmidt"
 Info(prcgen):I1047: Added metadata dc:Rights       "?"
 Info(prcgen):I1002: Parsing files  0000001
 Info(cssparser):I10004: @rules other than @import, @charset and @font-face are not supported.
-Warning(prcgen):W14010: media file not found  /tmp/mobi-nxYBq5/OEBPS/images/avatars/default.jpg
-Info(prcgen):I1016: Building enhanced PRC file
+Warning(prcgen):W14010: media file not found  /tmp/mobi-xZ0f80/OEBPS/images/avatars/default.jpg
 Info(prcgen):I1015: Building PRC file
 Info(prcgen):I1006: Resolving hyperlinks
 Info(pagemap):I8000: No Page map found in the book
@@ -30,6 +29,7 @@ Info(prcgen):I1040: The document identifier is: "Vater_und_So-_Zu_Bett_gehen"
 Info(prcgen):I1041: The file format version is V6
 Info(prcgen):I1031: Saving PRC file
 Info(prcgen):I1033: PRC built with WARNINGS!
+Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1007: Resolving mediaidlinks
 Info(prcgen):I1011: Writing mediaidlinks
 Info(prcgen):I1009: Resolving guide items

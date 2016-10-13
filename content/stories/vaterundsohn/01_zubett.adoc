@@ -14,53 +14,51 @@ endif::[]
 
 :imagesdir: images
 
-// [role="chapter-start"]
-
 image::01_zubett_01.jpg[]
-[s]#Vater# [p]#bringt# [o]#Sohn# ins Bett. 
-[s]#Er# [p]#sagt#: "[p]#Mach# schön [o]#die Augen# [p]#zu#! [p]#Schlaf ein#! Gute Nacht!"
+[n]#Vater# [vo]#bringt# [a]#Sohn# [paa]#ins# [paa_]#Bett#. 
+[n]#Er# [vo]#sagt#: "[vo]#Mach# schön [a]#die Augen# [v]#zu#! [vo]#Schlaf# [v]#ein#! [a]#Gute Nacht#!"
 
 image::01_zubett_02.jpg[]
-[s]#Vater# [p]#will# leise [p]#davongehen#. 
-[s]#Sohn# [p]#springt auf# und [p]#schreit#: 
-"[s]#Papa, Papa#, ich [p]#bin# noch gar nicht müde!"
+[n]#Vater# [vo]#will# leise [v]#davongehen#. 
+[n]#Sohn# [vo]#springt# [v]#auf# und [vo]#schreit#: 
+"[n]#Papa, Papa#, [n]#ich# [vo]#bin# noch gar nicht müde!"
     
 image::01_zubett_03.jpg[]
-Papa spielt mit Sohn ein bisschen "Schubkarre". 
-Er hält ihn an den Füßen fest 
-und Sohn läuft auf den Händen.
+[n]#Papa# [vo]#spielt# [pad]#mit# [pad_]#Sohn# ein bisschen "[a]#Schubkarre#". 
+[n]#Er# [vo]#hält# [a]#ihn# [pad]#an# [pad_]#den Füßen# [v]#fest# 
+und [n]#Sohn# [vo]#läuft# [pad]#auf# [pad_]#den Händen#.
 
 image::01_zubett_04.jpg[]
-Dann bringt Vater Sohn wieder ins Bett. 
-Er sagt: "Jetzt aber schön schlafen! 
-Mach die Augen zu! Gute Nacht!"
+Dann [vo]#bringt# [n]#Vater# [a]#Sohn# wieder [paa]#ins# [paa_]#Bett#. 
+[n]#Er# [vo]#sagt#: "Jetzt aber schön [v]#schlafen#! 
+[vo]#Mach# [a]#die Augen# [v]#zu#! [a]#Gute Nacht#!"
 
 image::01_zubett_05.jpg[]
-Vater will sich leise davonschleichen. 
-Aber Sohn winkt mit dem Kopfkissen und jammert: 
-Bitte, bitte, Papa, ich kann nicht schlafen. 
-Ich bin noch gar nicht müde!
+[n]#Vater# [vo]#will# [a]#sich# leise [v]#davonschleichen#. 
+Aber [n]#Sohn# [vo]#winkt# [pad]#mit# [paa_]#dem Kopfkissen# und [vo]#jammert#: 
+Bitte, bitte, [n]#Papa#, [n]#ich# [vo]#kann# nicht [v]#schlafen#. 
+[n]#Ich# [vo]#bin# noch gar nicht müde!
 
 image::01_zubett_06.jpg[]
-Da legt sich Vater auf den Rücken und 
-streckt die Beine nach oben. 
-Sohn setzt sich auf Vaters Füße, 
-und sie spielen "Auf dem Pferd reiten"
+Da [vo]#legt# [a]#sich# [n]#Vater# [paa]#auf# [paa_]#den Rücken# und 
+[vo]#streckt# [a]#die Beine# nach oben. 
+[n]#Sohn# [vo]#setzt# [a]#sich# [paa]#auf# [g]#Vaters# [paa_]#Füße#, 
+und [n]#sie# [vo]#spielen# "[pad]#Auf# [pad_]#dem Pferd# [v]#reiten#"
 
 image::01_zubett_07.jpg[]
-Dann muss Sohn aber wieder ins Bett. 
-Vater mahnt: "Jetzt aber schön schlafen, Sohnemann." 
-Sei brav und schlaf! Gute Nacht!
+Dann [vo]#muss# [n]#Sohn# aber wieder [paa]#ins# [paa_]#Bett#. 
+[n]#Vater# [vo]#mahnt#: "Jetzt aber schön [v]#schlafen#, [n]#Sohnemann#." 
+[vo]#Sei# brav und [vo]#schlaf#! [a]#Gute Nacht#!
 
 image::01_zubett_08.jpg[]
-Aber Sohn legt die Arme um Vaters Hals. 
-Er klammert sich fest und weint: 
-"Papa, Papa, bitte nicht weggehen. Ich kann nicht einschlafen, 
-wenn ich alleine bin."
+Aber [n]#Sohn# legt [a]#die Arme# [paa]#um# [g]#Vaters# [paa_]#Hals#. 
+Er [vo]#klammert# sich [v]#fest# und [vo]#weint#: 
+"[n]#Papa, Papa#, bitte nicht [v]#weggehen#. [n]#Ich# [vo]#kann# nicht [v]#einschlafen#, 
+wenn [n]#ich# alleine [vo]#bin#."
 
 image::01_zubett_09.jpg[]
-Da legt Vater sich zu Sohn ins Bett. 
-(Das Bett ist allerdings zu klein. 
-Vater muss die Beine über das Fußteil hängen.) 
-Vater schließt die Augen und schläft ein. 
-Aber Sohns Augen sind immer noch offen.
+Da [vo]#legt# [n]#Vater# [a]#sich# [pad]#zu# [pad_]#Sohn# [paa]#ins# [paa_]#Bett#. 
+[n]#(Das Bett# [vo]#ist# allerdings zu klein. 
+[n]#Vater# [vo]#muss# [a]#die Beine# [paa]#über# [paa_]#das Fußteil# [v]#hängen#.) 
+[n]#Vater# [vo]#schließt# [a]#die Augen# und [vo]#schläft# [v]#ein#. 
+Aber [g]#Sohns# [n]#Augen# [vo]#sind# immer noch offen.

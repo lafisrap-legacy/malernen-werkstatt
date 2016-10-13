@@ -4,36 +4,139 @@ body {}
 
 .paragraph p {
 	font-size: 1.8em;
+	line-height: 180%;
 }
 
-.s, .p, .o {
+.n, .g, .d, .a, .vo, .v,
+.pan, .pag, .pad, .paa, .pon, .pog, .pod, .poa,
+.pan_, .pag_, .pad_, .paa_, .pon_, .pog_, .pod_, .poa_ {
     position: relative;
     display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
-.s:before, .p:before, .o:before {
+.n:before, .g:before, .d:before, .a:before, .vo:before, .v:before,
+.pan:before, .pag:before, .pad:before, .paa:before,
+.pan_:before, .pag_:before, .pad_:before, .paa_:before,
+.pon_:before, .pog_:before, .pod_:before, .poa_:before {
     position: absolute;
     background-size: 100% 100%;
     display: inline-block;
     margin-left: -15%;
-    margin-top: -6px;
+    margin-top: -0px;
     width: 135%; 
-    height: 135%;
+    height: 100%;
     content:"";
     z-index: -1;
 }
 
-.s:before {
-	background-image: url(images/markup/einkreisen1.png);
+.n:before {
+	background-image: url(images/markup/blauerstrich.png);
     display: inline-block;
 }
 
-.p:before {
-	background-image: url(images/markup/einkreisen2.png);
+.g:before {
+	background-image: url(images/markup/orangerstrich.png);
     display: inline-block;
 }
 
-.o:before {
-	background-image: url(images/markup/einkreisen3.png);
+.d:before {
+    background-image: url(images/markup/gruenerstrich.png);
+    display: inline-block;
+}
+
+.a:before {
+    background-image: url(images/markup/roterstrich.png);
+    display: inline-block;
+}
+
+.vo:before {
+    background-image: url(images/markup/gelberkreis.png);
+    display: inline-block;
+}
+
+.v:before {
+    background-image: url(images/markup/gelberstrich.png);
+    display: inline-block;
+}
+
+.pan:before {
+    background-image: url(images/markup/grauesrechteckmitblau.png);
+    display: inline-block;
+}
+
+.pag:before {
+    background-image: url(images/markup/grauesrechteckmitorange.png);
+    display: inline-block;
+}
+
+.pad:before {
+    background-image: url(images/markup/grauesrechteckmitgruen.png);
+    display: inline-block;
+}
+
+.paa:before {
+    background-image: url(images/markup/grauesrechteckmitrot.png);
+    display: inline-block;
+}
+
+.pan_:before {
+    background-image: url(images/markup/grauerstrich.png);
+    display: inline-block;
+}
+
+.pag_:before {
+    background-image: url(images/markup/grauerstrich.png);
+    display: inline-block;
+}
+
+.pad_:before {
+    background-image: url(images/markup/grauerstrich.png);
+    display: inline-block;
+}
+
+.paa_:before {
+    background-image: url(images/markup/grauerstrich.png);
+    display: inline-block;
+}
+
+.pon:before {
+    background-image: url(images/markup/grauesrechteck.png);
+    display: inline-block;
+}
+
+.pog:before {
+    background-image: url(images/markup/grauesrechteck.png);
+    display: inline-block;
+}
+
+.pod:before {
+    background-image: url(images/markup/grauesrechteck.png);
+    display: inline-block;
+}
+
+.poa:before {
+    background-image: url(images/markup/grauesrechteck.png);
+    display: inline-block;
+}
+
+.pon_:before {
+    background-image: url(images/markup/blauerstrich.png);
+    display: inline-block;
+}
+
+.pog_:before {
+    background-image: url(images/markup/orangerstrich.png);
+    display: inline-block;
+}
+
+.pod_:before {
+    background-image: url(images/markup/gruenerstrich.png);
+    display: inline-block;
+}
+
+.poa_:before {
+    background-image: url(images/markup/roterstrich.png);
     display: inline-block;
 }
