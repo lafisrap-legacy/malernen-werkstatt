@@ -1,64 +1,37 @@
-= Der Wortesammler - Mit Wortformen spielen: Vater und Sohn
-01. Zu Bett gehen
-v1.0, 10.10.2016
-:doctype: book
-// Settings:
-:experimental:
-:reproducible:
-:icons: font
-:listing-caption: Listing
-:sectnums:
-ifdef::backend-pdf[]
-:title-logo-image: image:images/01_zubett_01.jpg[pdfwidth=4.25in,align=center]
-endif::[]
-
+:last-update-label!:
 :imagesdir: images
 
-image::01_zubett_01.jpg[]
-[s]#Vater# [p]#bringt# [o]#Sohn# ins Bett. 
-[s]#Er# [p]#sagt#: "[p]#Mach# schön [o]#die Augen# [p]#zu#! [p]#Schlaf ein#! [o]#Gute Nacht#!"
+=== Vater & Sohn - Vorbilder
+==== .
+image::02_vorbilder_01.jpg[]
+[n]#Sohn und sein Freund Hugo# [vo]#prügeln# [a]#sich#.
 
-image::01_zubett_02.jpg[]
-[s]#Vater# [p]#will# leise [p]#davongehen#. 
-[s]#Sohn# [p]#springt auf# und [p]#schreit#: 
-"[s]#Papa, Papa#, [s]#ich# [p]#bin# noch gar nicht müde!"
+==== .
+image::02_vorbilder_02.jpg[]
+[n]#Sohn# [vo]#weint# und [vo]#läuft# [pad]#zu# [pad_]#seinem Vater#.
+[n]#Er# [vo]#schluchzt#: „[n]#Papa#, [n]#Hugo# [vo]#hat# [a]#mich# [v]#geschlagen# und [v]#getreten#.“
     
-image::01_zubett_03.jpg[]
-[s]#Papa# [p]#spielt# mit Sohn ein bisschen "[o]#Schubkarre#". 
-[s]#Er# [p]#hält# [o]#ihn# an den Füßen [p]#fest# 
-und [s]#Sohn# [p]#läuft# auf den Händen.
+==== .
+image::02_vorbilder_03.jpg[]
+[n]#Vater# [vo]#ruft#: „Na, [vo]#warte#, [d]#dem# [vo]#werde# [n]#ich# [a]#'s# [v]#zeigen#!
+Wo [vo]#ist# [n]#der Schuft#?“
+[pad__]#Hand# [pad]#in# [pad_]#Hand# [vo]#laufen# [n]#sie# [pad]#zu# [pad_]#Hugo#.
+[n]#Der# [vo]#kommt# [d]#ihnen# schon [pad]#mit# [pad_]#seinem Vater# [pad]#an# [pad_]#der Hand# [v]#entgegen.#
 
-image::01_zubett_04.jpg[]
-Dann [p]#bringt# [s]#Vater# [o]#Sohn# wieder ins Bett. 
-[s]#Er# [p]#sagt#: "Jetzt aber schön [p]#schlafen#! 
-[p]#Mach# [o]#die Augen# [p]#zu#! [o]#Gute Nacht#!"
+==== .
+image::02_vorbilder_04.jpg[]
+[n]#Die Männer# [vo]#schimpfen# und [vo]#streiten#.
+„[n]#Dein böser Sohn# [vo]#hat# [a]#meinen lieben Sohn# [v]#geschlagen#!“, [vo]#sagt# [n]#der eine#.
+„Nein!“ [vo]#ruft# [n]#der andere#:“
+[n]#„Dein böser Sohn# [vo]#hat# [a]#meinen lieben Sohn# [v]#getreten#!“
 
-image::01_zubett_05.jpg[]
-[s]#Vater# [p]#will# [o]#sich# leise [p]#davonschleichen#. 
-Aber [s]#Sohn# [p]#winkt# mit dem Kopfkissen und [p]#jammert#: 
-Bitte, bitte, [s]#Papa#, [s]#ich# [p]#kann# nicht [p]#schlafen#. 
-[s]#Ich# [p]#bin# noch gar nicht müde!
+==== .
+image::02_vorbilder_05.jpg[]
+[n]#Die Kinder# [vo]#schauen# gespannt [v]#zu#.
+[n]#Vater# [vo]#packt# [g]#Hugos# [a]#Vater# [pad]#beim# [pad_]#Kragen#.
+[n]#Der# [vo]#hebt# drohend [a]#die Hand#.
 
-image::01_zubett_06.jpg[]
-Da [p]#legt# [o]#sich# [s]#Vater# auf den Rücken und 
-[p]#streckt# [o]#die Beine# nach oben. 
-[s]#Sohn# [p]#setzt# [o]#sich# auf Vaters Füße, 
-und [s]#sie# [p]#spielen# "Auf dem Pferd [p]#reiten#"
-
-image::01_zubett_07.jpg[]
-Dann [p]#muss# [s]#Sohn# aber wieder ins Bett. 
-[s]#Vater# [p]#mahnt#: "Jetzt aber schön [p]#schlafen#, [s]#Sohnemann#." 
-[p]#Sei# brav und [p]#schlaf#! [o]#Gute Nacht#!
-
-image::01_zubett_08.jpg[]
-Aber [s]#Sohn# legt [o]#die Arme# um Vaters Hals. 
-Er [p]#klammert# sich [p]#fest# und [p]#weint#: 
-"[s]#Papa, Papa#, bitte nicht [p]#weggehen#. [s]#Ich# kann nicht [p]#einschlafen#, 
-wenn [s]#ich# alleine [p]#bin#."
-
-image::01_zubett_09.jpg[]
-Da [p]#legt# [s]#Vater# [o]#sich# zu Sohn ins Bett. 
-([s]#Das Bett# [p]#ist# allerdings zu klein. 
-[s]#Vater# [p]#muss# [o]#die Beine# über das Fußteil [p]#hängen#.) 
-[s]#Vater# [p]#schließt# [o]#die Augen# und [p]#schläft ein#. 
-Aber [s]#Sohns Augen# [p]#sind# immer noch offen.
+==== .
+image::02_vorbilder_06.jpg[]
+Oh je, [n]#die großen Männer# [vo]#prügeln# [a]#sich# [pan]#wie# [pan_]#die kleinen Kinder#.
+Aber [n]#Sohn und sein Freund Hugo# [vo]#spielen# schon längst wieder [v]#zusammen# [pad]#mit# [pad_]#ihren Murmeln#.

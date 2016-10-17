@@ -2,6 +2,21 @@
 
 body {}
 
+h3 {
+    font-size: 2.2em;
+    text-align: center;
+}
+
+.sect3:nth-child(n+3) {
+    page-break-before:always;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.sect3 > h4 {
+    display: none;
+}
+
 .paragraph p {
 	font-size: 1.8em;
 	line-height: 180%;
@@ -9,17 +24,34 @@ body {}
 
 .n, .g, .d, .a, .vo, .v,
 .pan, .pag, .pad, .paa, .pon, .pog, .pod, .poa,
-.pan_, .pag_, .pad_, .paa_, .pon_, .pog_, .pod_, .poa_ {
+.pan_, .pag_, .pad_, .paa_, .pon_, .pog_, .pod_, .poa_,
+.pan__, .pag__, .pad__, .paa__, .pon__, .pog__, .pod__, .poa__ {
     position: relative;
     display: inline-block;
+}
+
+.n, .g, .d, .a, .vo, .v,
+.pan, .pag, .pad, .paa, .pon, .pog, .pod, .poa {
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.pan_, .pag_, .pad_, .paa_, .pon_, .pog_, .pod_, .poa_ {
+    margin-left: -8px;
+    margin-right: 5px;
+}
+
+.pan__, .pag__, .pad__, .paa__, .pon__, .pog__, .pod__, .poa__ {
+    margin-left: 5px;
+    margin-right: -8px;
 }
 
 .n:before, .g:before, .d:before, .a:before, .vo:before, .v:before,
 .pan:before, .pag:before, .pad:before, .paa:before,
 .pan_:before, .pag_:before, .pad_:before, .paa_:before,
-.pon_:before, .pog_:before, .pod_:before, .poa_:before {
+.pon_:before, .pog_:before, .pod_:before, .poa_:before,
+.pan__:before, .pag__:before, .pad__:before, .paa__:before,
+.pon__:before, .pog__:before, .pod__:before, .poa__:before {
     position: absolute;
     background-size: 100% 100%;
     display: inline-block;
@@ -81,22 +113,22 @@ body {}
     display: inline-block;
 }
 
-.pan_:before {
+.pan_:before, .pan__:before {
     background-image: url(images/markup/grauerstrich.png);
     display: inline-block;
 }
 
-.pag_:before {
+.pag_:before, .pag__:before {
     background-image: url(images/markup/grauerstrich.png);
     display: inline-block;
 }
 
-.pad_:before {
+.pad_:before, .pad__:before {
     background-image: url(images/markup/grauerstrich.png);
     display: inline-block;
 }
 
-.paa_:before {
+.paa_:before, .paa__:before {
     background-image: url(images/markup/grauerstrich.png);
     display: inline-block;
 }
@@ -121,22 +153,22 @@ body {}
     display: inline-block;
 }
 
-.pon_:before {
+.pon_:before, .pon__:before {
     background-image: url(images/markup/blauerstrich.png);
     display: inline-block;
 }
 
-.pog_:before {
+.pog_:before, .pog__:before {
     background-image: url(images/markup/orangerstrich.png);
     display: inline-block;
 }
 
-.pod_:before {
+.pod_:before, .pod__:before {
     background-image: url(images/markup/gruenerstrich.png);
     display: inline-block;
 }
 
-.poa_:before {
+.poa_:before, .poa__:before {
     background-image: url(images/markup/roterstrich.png);
     display: inline-block;
 }

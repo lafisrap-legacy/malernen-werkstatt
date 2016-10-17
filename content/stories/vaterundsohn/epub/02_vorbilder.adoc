@@ -1,0 +1,17 @@
+= Vater und Sohn - 02 - Vorbilder
+Michael Schmidt
+v1.0, 2016-10-10
+:doctype: book
+:producer: Yaylas Wiese e.V.
+:keywords: Vater Sohn Plauen 
+:copyright: ?
+:includedir: ..
+:lang: de-DE
+:doctitle: Vater und Sohn, Vorbilder
+:author: Michael Schmidt
+:imagesdir: ../images
+
+[role="chapter-start"]
+
+include::{includedir}/02_vorbilder.adoc[]
+
