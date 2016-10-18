@@ -1,0 +1,8 @@
+
+:doctype: book
+image::images/01_zubett_01.jpg[pdfwidth=4.25in,align=center]
+== Mitlese-Buch 1
+
+=== Vater & Sohn, 01. Zu Bett gehen
+
+=== Vater & Sohn, 02. Vorbilder
