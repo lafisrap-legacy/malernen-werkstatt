@@ -1,0 +1,48 @@
+:last-update-label!:
+:imagesdir: images
+
+=== Schleife - Frau
+==== .
+image::02_Frau.png[]
+[cols="2*"]
+|===
+|[n]#die Frau#
+|[n]#sie#
+
+|[a]#die Frau#
+|[a]#sie#
+
+|[d]#der Frau#
+|[d]#ihr#
+
+|[n]#Foto# [g]#der Frau#
+|[n]#ihr Foto#
+|===
+
+==== .
+[n]#Das# [vo]#ist# [n]#eine Frau.#
+
+[n]#Ich# [vo]#sehe# [a]#die Frau.#
+
+[n]#Ich# [vo]#kenne# [a]#die Frau.#
+
+[n]#Ich# [vo]#gehe# [d]#zu der Frau# [vo]#hin.#
+
+[n]#Ich# [vo]#begrüße# [a]#die Frau.#
+
+[n]#Ich# [vo]#frage# [a]#die Frau,# ob [n]#ich# [a]#sie# [v]#fotografieren# [vo]#darf.#
+
+[n]#Ich# [vo]#fotografiere# [a]#die Frau.#
+
+[n]#Ich# [vo]#danke# [d]#der Frau.#
+
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#der Frau.#
+
+[n]#Ich# [vo]#gehe.#
+
+[n]#Ich# [vo]#winke# [d]#der Frau.#
+
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#der Frau.#
+
+
+

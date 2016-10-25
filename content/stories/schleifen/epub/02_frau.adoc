@@ -1,0 +1,14 @@
+= Schleife: Frau
+v1.0, 2016-10-10
+:doctype: book
+:producer: Yaylas Wiese e.V.
+:keywords:  
+:copyright: ?
+:includedir: ..
+:lang: de-DE
+:doctitle: Schleife 1: Frau
+:author: Anne Peters
+:imagesdir: ../images
+
+include::{includedir}/02_frau.adoc[]
+

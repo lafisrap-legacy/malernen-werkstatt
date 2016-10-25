@@ -7,10 +7,13 @@ h3 {
     text-align: center;
 }
 
-.sect3:nth-child(n+3) {
-    page-break-before:always;
+.sect3 {
     width: 90%;
     margin: 0 auto;
+}
+
+.sect3:nth-child(n+3) {
+    page-break-before:always;
 }
 
 .sect3 > h4 {
@@ -18,11 +21,19 @@ h3 {
 }
 
 .paragraph p {
-	font-size: 1.8em;
+	font-size: 1.7em;
 	line-height: 180%;
 }
 
-.n, .g, .d, .a, .vo, .v,
+.tableblock p {
+    font-size: 1.7em;
+    line-height: 180%;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+
+
+.n, .g, .d, .a, .vo, .v, .ozg,
 .pan, .pag, .pad, .paa, .pon, .pog, .pod, .poa,
 .pan_, .pag_, .pad_, .paa_, .pon_, .pog_, .pod_, .poa_,
 .pan__, .pag__, .pad__, .paa__, .pon__, .pog__, .pod__, .poa__ {
@@ -30,23 +41,27 @@ h3 {
     display: inline-block;
 }
 
-.n, .g, .d, .a, .vo, .v,
-.pan, .pag, .pad, .paa, .pon, .pog, .pod, .poa {
+.n, .g, .d, .a, .vo, .v, .ozg {
     margin-left: 5px;
     margin-right: 5px;
 }
 
+.pan, .pag, .pad, .paa, .pon, .pog, .pod, .poa {
+    margin-left: 5px;
+    margin-right: -8px;
+}
+
 .pan_, .pag_, .pad_, .paa_, .pon_, .pog_, .pod_, .poa_ {
-    margin-left: -8px;
+    margin-left:  5px;
     margin-right: 5px;
 }
 
 .pan__, .pag__, .pad__, .paa__, .pon__, .pog__, .pod__, .poa__ {
     margin-left: 5px;
-    margin-right: -8px;
+    margin-right: -9px;
 }
 
-.n:before, .g:before, .d:before, .a:before, .vo:before, .v:before,
+.n:before, .g:before, .d:before, .a:before, .vo:before, .v:before, .ozg:before,
 .pan:before, .pag:before, .pad:before, .paa:before,
 .pan_:before, .pag_:before, .pad_:before, .paa_:before,
 .pon_:before, .pog_:before, .pod_:before, .poa_:before,
@@ -55,9 +70,9 @@ h3 {
     position: absolute;
     background-size: 100% 100%;
     display: inline-block;
-    margin-left: -15%;
+    margin-left: -12%;
     margin-top: -0px;
-    width: 135%; 
+    width: 125%; 
     height: 100%;
     content:"";
     z-index: -1;
@@ -90,6 +105,11 @@ h3 {
 
 .v:before {
     background-image: url(images/markup/gelberstrich.png);
+    display: inline-block;
+}
+
+.ozg:before {
+    background-image: url(images/markup/grauerstrich.png);
     display: inline-block;
 }
 

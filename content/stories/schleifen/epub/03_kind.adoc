@@ -1,0 +1,14 @@
+= Schleife: Kind
+v1.0, 2016-10-10
+:doctype: book
+:producer: Yaylas Wiese e.V.
+:keywords:  
+:copyright: ?
+:includedir: ..
+:lang: de-DE
+:doctitle: Schleife 3: Kind
+:author: Anne Peters
+:imagesdir: ../images
+
+include::{includedir}/03_kind.adoc[]
+

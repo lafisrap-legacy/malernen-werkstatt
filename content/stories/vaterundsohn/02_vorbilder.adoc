@@ -13,25 +13,25 @@ image::02_vorbilder_02.jpg[]
     
 ==== .
 image::02_vorbilder_03.jpg[]
-[n]#Vater# [vo]#ruft#: „Na, [vo]#warte#, [d]#dem# [vo]#werde# [n]#ich# [a]#'s# [v]#zeigen#!
+[n]#Vater# [vo]#ruft#: [ozg]#„Na,# [vo]#warte#, [d]#dem# [vo]#werde# [n]#ich# [a]#'s# [v]#zeigen#!
 Wo [vo]#ist# [n]#der Schuft#?“
 [pad__]#Hand# [pad]#in# [pad_]#Hand# [vo]#laufen# [n]#sie# [pad]#zu# [pad_]#Hugo#.
-[n]#Der# [vo]#kommt# [d]#ihnen# schon [pad]#mit# [pad_]#seinem Vater# [pad]#an# [pad_]#der Hand# [v]#entgegen.#
+[n]#Der# [vo]#kommt# [d]#ihnen# [ozg]#schon# [pad]#mit# [pad_]#seinem Vater# [pad]#an# [pad_]#der Hand# [v]#entgegen.#
 
 ==== .
 image::02_vorbilder_04.jpg[]
 [n]#Die Männer# [vo]#schimpfen# und [vo]#streiten#.
-„[n]#Dein böser Sohn# [vo]#hat# [a]#meinen lieben Sohn# [v]#geschlagen#!“, [vo]#sagt# [n]#der eine#.
-„Nein!“ [vo]#ruft# [n]#der andere#:“
+„[n]#Dein böser Sohn# [vo]#hat# [a]#meinen lieben Sohn# [v]#geschlagen!“,# [vo]#sagt# [n]#der eine#.
+[ozg]#„Nein!“# [vo]#ruft# [n]#der andere#:“
 [n]#„Dein böser Sohn# [vo]#hat# [a]#meinen lieben Sohn# [v]#getreten#!“
 
 ==== .
 image::02_vorbilder_05.jpg[]
-[n]#Die Kinder# [vo]#schauen# gespannt [v]#zu#.
+[n]#Die Kinder# [vo]#schauen# [ozg]#gespannt# [v]#zu#.
 [n]#Vater# [vo]#packt# [g]#Hugos# [a]#Vater# [pad]#beim# [pad_]#Kragen#.
-[n]#Der# [vo]#hebt# drohend [a]#die Hand#.
+[n]#Der# [vo]#hebt# [ozg]#drohend# [a]#die Hand#.
 
 ==== .
 image::02_vorbilder_06.jpg[]
-Oh je, [n]#die großen Männer# [vo]#prügeln# [a]#sich# [pan]#wie# [pan_]#die kleinen Kinder#.
-Aber [n]#Sohn und sein Freund Hugo# [vo]#spielen# schon längst wieder [v]#zusammen# [pad]#mit# [pad_]#ihren Murmeln#.
+[ozg]#Oh je,# [n]#die großen Männer# [vo]#prügeln# [a]#sich# [pan]#wie# [pan_]#die kleinen# [pan_]#Kinder#.
+Aber [n]#Sohn und sein# [n]#Freund Hugo# [vo]#spielen# [ozg]#schon längst wieder# [v]#zusammen# [pad]#mit# [pad_]#ihren Murmeln#.

@@ -4,25 +4,25 @@
 === Vater & Sohn - Zu Bett gehen
 ==== .
 image::01_zubett_01.jpg[]
-[n]#Vater# [vo]#bringt# [a]#Sohn# [paa]#ins# [paa_]#Bett.# 
-[n]#Er# [vo]#sagt#: „[vo]#Mach# schön [a]#die Augen# [v]#zu!# [vo]#Schlaf# [v]#ein!# [a]#Gute Nacht!“#
+[n]#Vater# [vo]#bringt# [a]#Sohn# [paa]#ins# [paa_]#Bett.#
+[n]#Er# [vo]#sagt#: „[vo]#Mach# [ozg]#schön# [vo]#die Augen# [v]#zu!# [vo]#Schlaf# [v]#ein!# [a]#Gute Nacht!“#
 
 ==== .
 image::01_zubett_02.jpg[]
-[n]#Vater# [vo]#will# leise [v]#davongehen#. 
+[n]#Vater# [vo]#will# [ozg]#leise# [v]#davongehen#. 
 [n]#Sohn# [vo]#springt# [v]#auf# und [vo]#schreit#: 
-„[n]#Papa, Papa#, [n]#ich# [vo]#bin# noch gar nicht müde!“
+[n]#„Papa, Papa#, [n]#ich# [vo]#bin# [ozg]#noch gar nicht# [ozg]#müde!“#
 
 ==== .
 image::01_zubett_03.jpg[]
-[n]#Papa# [vo]#spielt# [pad]#mit# [pad_]#Sohn# ein bisschen [a]#„Schubkarre“#. 
+[n]#Papa# [vo]#spielt# [pad]#mit# [pad_]#Sohn# [ozg]#ein bisschen# [a]#„Schubkarre“#. 
 [n]#Er# [vo]#hält# [a]#ihn# [pad]#an# [pad_]#den Füßen# [v]#fest# 
 und [n]#Sohn# [vo]#läuft# [pad]#auf# [pad_]#den Händen#.
 
 ==== .
 image::01_zubett_04.jpg[]
-Dann [vo]#bringt# [n]#Vater# [a]#Sohn# wieder [paa]#ins# [paa_]#Bett#. 
-[n]#Er# [vo]#sagt#: „Jetzt aber schön [v]#schlafen#! 
+[ozg]#Dann# [vo]#bringt# [n]#Vater# [a]#Sohn# [ozg]#wieder# [paa]#ins# [paa_]#Bett#. 
+[n]#Er# [vo]#sagt#: [ozg]#„Jetzt aber# [ozg]#schön# [v]#schlafen#! 
 [vo]#Mach# [a]#die Augen# [v]#zu!# [a]#Gute Nacht!“#
 
 ==== .
@@ -30,7 +30,7 @@ image::01_zubett_05.jpg[]
 [n]#Vater# [vo]#will# [a]#sich# leise [v]#davonschleichen#. 
 Aber [n]#Sohn# [vo]#winkt# [pad]#mit# [paa_]#dem Kopfkissen# und [vo]#jammert#: 
 Bitte, bitte, [n]#Papa#, [n]#ich# [vo]#kann# nicht [v]#schlafen.# 
-[n]#Ich# [vo]#bin# noch gar nicht müde!
+[n]#Ich# [vo]#bin# [ozg]#noch gar nicht# [ozg]#müde!#
 
 ==== .
 image::01_zubett_06.jpg[]
@@ -41,21 +41,21 @@ und [n]#sie# [vo]#spielen# „[pad]#Auf# [pad_]#dem Pferd# [v]#reiten#“
 
 ==== .
 image::01_zubett_07.jpg[]
-Dann [vo]#muss# [n]#Sohn# aber wieder [paa]#ins# [paa_]#Bett#. 
-[n]#Vater# [vo]#mahnt#: „Jetzt aber schön [v]#schlafen#, [n]#Sohnemann#.“ 
-[vo]#Sei# brav und [vo]#schlaf#! [a]#Gute Nacht#!
+Dann [vo]#muss# [n]#Sohn# [ozg]#aber wieder# [paa]#ins# [paa_]#Bett#. 
+[n]#Vater# [vo]#mahnt#: [ozg]#„Jetzt# [ozg]#aber schön# [v]#schlafen#, [n]#Sohnemann#.“ 
+[vo]#Sei# [ozg]#brav# und [vo]#schlaf#! [a]#Gute Nacht#!
 
 ==== .
 image::01_zubett_08.jpg[]
 Aber [n]#Sohn# legt [a]#die Arme# [paa]#um# [g]#Vaters# [paa_]#Hals#. 
 Er [vo]#klammert# sich [v]#fest# und [vo]#weint#: 
 [n]#„Papa, Papa#, bitte nicht [v]#weggehen#. [n]#Ich# [vo]#kann# nicht [v]#einschlafen#, 
-wenn [n]#ich# alleine [vo]#bin.“#
+[ozg]#wenn# [n]#ich# [ozg]#alleine# [vo]#bin.“#
 
 ==== .
 image::01_zubett_09.jpg[]
 Da [vo]#legt# [n]#Vater# [a]#sich# [pad]#zu# [pad_]#Sohn# [paa]#ins# [paa_]#Bett#. 
-[n]#(Das Bett# [vo]#ist# allerdings zu klein. 
+[n]#(Das Bett# [vo]#ist# [ozg]#allerdings# [ozg]#zu klein.# 
 [n]#Vater# [vo]#muss# [a]#die Beine# [paa]#über# [paa_]#das Fußteil# [v]#hängen#.) 
 [n]#Vater# [vo]#schließt# [a]#die Augen# und [vo]#schläft# [v]#ein#. 
-Aber [g]#Sohns# [n]#Augen# [vo]#sind# immer noch offen.
+Aber [g]#Sohns# [n]#Augen# [vo]#sind# [ozg]#immer noch# [ozg]#offen.#

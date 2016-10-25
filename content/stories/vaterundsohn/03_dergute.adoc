@@ -5,12 +5,12 @@
 ==== .
 image::03_dergute_01.jpg[]
 [n]#Vater# und [n]#Sohn# [vo]#sind# [pad]#am# [pad_]#Meer# und [vo]#werfen# [a]#Steine# [paa]#ins# [paa_]#Wasser#.
-[n]#Sohn# [vo]#kann# ziemlich weit [v]#werfen#.
+[n]#Sohn# [vo]#kann# [ozg]#ziemlich weit# [v]#werfen#.
 
 ==== .
 image::03_dergute_02.jpg[]
-[n]#Vater# [vo]#kann# noch weiter [vo]#werfen#.
-„Bravo!“, [vo]#ruft# [n]#Sohn# und [vo]#klatscht# [a]#Beifall#.
+[n]#Vater# [vo]#kann# [ozg]#noch weiter# [vo]#werfen#.
+[ozg]#„Bravo!“,# [vo]#ruft# [n]#Sohn# und [vo]#klatscht# [a]#Beifall#.
     
 ==== .
 image::03_dergute_03.jpg[]
@@ -20,23 +20,23 @@ Aber [n]#Vater# [vo]#findet# [a]#keinen Stein# mehr.
 
 ==== .
 image::03_dergute_04.jpg[]
-Traurig [vo]#gehen# [n]#sie# [pad]#nach# [pad_]#Hause#.
-[n]#Die Sonne# [vo]#geht# schon [v]#unter#.
+[ozg]#Traurig# [vo]#gehen# [n]#sie# [pad]#nach# [pad_]#Hause#.
+[n]#Die Sonne# [vo]#geht# [ozg]#schon# [v]#unter#.
 [n]#Es# [vo]#ist# [n]#Abend# [v]#geworden#.
 
 ==== .
 image::03_dergute_05.jpg[]
 [n]#Vater# [vo]#möchte# [d]#Sohn# [a]#eine Freude# [v]#machen#.
-Nachts [vo]#steht# [n]#er# leise [v]#auf#.
+[ozg]#Nachts# [vo]#steht# [n]#er# [ozg]#leise# [v]#auf#.
 [pad]#Mit# [pad_]#einer Schubkarre# [vo]#holt# [n]#er# [a]#ganz viele neue Steine#.
 „Puh, [vo]#ist# [n]#das# anstrengend!“
 Nur [n]#die Mondsichel# [vo]#schaut# [d]#ihm# [v]#zu#.
-[n]#Vater# [vo]#denkt#: „Hoffentlich [vo]#wacht# [n]#Sohn# nicht [v]#auf#.
-Hoffentlich [vo]#merkt# [n]#er# nicht, dass [n]#ich# weg [v]#bin#.“
+[n]#Vater# [vo]#denkt#: [ozg]#„Hoffentlich# [vo]#wacht# [n]#Sohn# [ozg]#nicht# [v]#auf#.
+[ozg]#Hoffentlich# [vo]#merkt# [n]#er# [ozg]#nicht,# dass [n]#ich# weg [v]#bin#.“
 
 ==== .
 image::03_dergute_06.jpg[]
 [pad]#Am# [pad_]#nächsten Morgen# [vo]#gehen# [n]#Vater# und [n]#Sohn# wieder [paa]#ans# [paa_]#Meer#.
-„[n]#Papa#, [vo]#schau# mal! [n]#Es# [vo]#gibt# wieder [a]#Steine#. [a]#hunderttausendmillionen Steine#.“
-[n]#Sohn# [vo]#ist# begeistert.
-[n]#Vater# [vo]#ist# müde [pad]#von# [pad_]#der Arbeit#, aber glücklich, weil [n]#Sohn# [a]#sich# so schön [vo]#freut#.
+„[n]#Papa#, [vo]#schau# [ozg]#mal!# [n]#Es# [vo]#gibt# [ozg]#wieder# [a]#Steine#. [a]#hunderttausendmillionen Steine#.“
+[n]#Sohn# [vo]#ist# [ozg]#begeistert.#
+[n]#Vater# [vo]#ist# [ozg]#müde# [pad]#von# [pad_]#der Arbeit#, aber [ozg]#glücklich,# weil [n]#Sohn# [a]#sich# [ozg]#so schön# [vo]#freut#.

@@ -1,0 +1,48 @@
+:last-update-label!:
+:imagesdir: images
+
+=== Schleife - Kind
+==== .
+image::03_Kind.png[]
+[cols="2*"]
+|===
+|[n]#das Kind#
+|[n]#es#
+
+|[a]#das Kind#
+|[a]#es#
+
+|[d]#dem Kind#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Kindes#
+|[n]#sein Foto#
+|===
+
+==== .
+[n]#Das# [vo]#ist# [n]#ein Kind.#
+
+[n]#Ich# [vo]#sehe# [a]#das Kind.#
+
+[n]#Ich# [vo]#kenne# [a]#das Kind.#
+
+[n]#Ich# [vo]#gehe# [d]#zu dem Kind# [vo]#hin.#
+
+[n]#Ich# [vo]#begrüße# [a]#das Kind.#
+
+[n]#Ich# [vo]#frage# [a]#das Kind,# ob [n]#ich# [a]#es# [v]#fotografieren# [vo]#darf.#
+
+[n]#Ich# [vo]#fotografiere# [a]#das Kind.#
+
+[n]#Ich# [vo]#danke# [d]#dem Kind.#
+
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Kind.#
+
+[n]#Ich# [vo]#gehe.#
+
+[n]#Ich# [vo]#winke# [d]#dem Kind.#
+
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Kindes.#
+
+
+

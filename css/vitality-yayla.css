@@ -90,7 +90,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 body {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 300;
 }
@@ -110,7 +110,7 @@ p {
   line-height: 1.5;
 }
 p.lead {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   font-size: 24px;
@@ -121,7 +121,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -277,13 +277,19 @@ header .intro-content {
   position: relative;
 }
 header .brand-name {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 55px;
   line-height: 55px;
   text-transform: uppercase;
   font-weight: 900;
   margin-top: 15px;
 }
+header .brand-name .handwriting {
+  font-family: "Indie Flower", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  text-transform: none;
+}
+
 header .brand-name-subtext {
   font-size: 20px;
   line-height: 20px;
@@ -437,7 +443,7 @@ aside.cta-quote span.quote {
   display: inline-block;
 }
 .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -1164,4 +1170,30 @@ body.vintage .testimonials .testimonials-carousel .item .testimonial-info .testi
 body.vintage .testimonials .testimonials-carousel .owl-controls .owl-prev,
 body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   line-height: 55px;
+}
+
+
+
+#themes img.sprachexperten {
+  max-width: 1024px;
+  width: 70%;
+}
+
+#themes .sprachexperte {
+  height: 300px;
+  vertical-align: bottom;
+  background-color: #eee;
+}
+
+#themes .sprachexperte img {
+  display: table-caption;
+  margin: 0 auto;
+}
+
+#themes .media {
+  margin-top: 60px;
+}
+
+#themes .content-row {
+  margin-bottom: 100px;
 }

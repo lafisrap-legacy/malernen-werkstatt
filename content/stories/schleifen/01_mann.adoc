@@ -1,0 +1,48 @@
+:last-update-label!:
+:imagesdir: images
+
+=== Schleife - Mann
+==== .
+image::01_Mann.png[]
+[cols="2*"]
+|===
+|[n]#der Mann#
+|[n]#er#
+
+|[a]#den Mann#
+|[a]#ihn#
+
+|[d]#dem Mann#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Mannes#
+|[n]#sein Foto#
+|===
+
+==== .
+[n]#Das# [vo]#ist# [n]#ein Mann.#
+
+[n]#Ich# [vo]#sehe# [a]#den Mann.#
+
+[n]#Ich# [vo]#kenne# [a]#den Mann.#
+
+[n]#Ich# [vo]#gehe# [d]#zu dem Mann# [vo]#hin.#
+
+[n]#Ich# [vo]#begrüße# [a]#den Mann.#
+
+[n]#Ich# [vo]#frage# [a]#den Mann,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.#
+
+[n]#Ich# [vo]#fotografiere# [a]#den Mann.#
+
+[n]#Ich# [vo]#danke# [d]#dem Mann.#
+
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Mann.#
+
+[n]#Ich# [vo]#gehe.#
+
+[n]#Ich# [vo]#winke# [d]#dem Mann.#
+
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Mannes.#
+
+
+
