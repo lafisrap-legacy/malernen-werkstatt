@@ -20,6 +20,9 @@ alltopics: 	vaterundsohn_01_zubett.html vaterundsohn_01_zubett.epub vaterundsohn
 			booklet_01.pdf\
 			vitality-yayla.css
 
+vitality-yayla.css: $(shell ls less)
+	lessc less/vitality.less css/vitality-yayla.css 
+
 vaterundsohn_01_zubett.html: 01_zubett.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/vaterundsohn/01_zubett.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_01_zubett.html
 	tidy -config content/resources/.tidy -output public/html/vaterundsohn_01_zubett.html public/html/vaterundsohn_01_zubett.html  
@@ -122,9 +125,6 @@ booklet_01.pdf: vaterundsohn_01_zubett.html\
 		cover public/html/booklet_01_back.html\
 		public/pdf/booklet_01.pdf 
 	#pdf2ps booklet_01.pdf - | psbook | psnup -s1 -2 | ps2pdf - booklet_01_druck.pdf &
-
-vitality-yayla.css: $(shell ls less)
-	lessc less/vitality.less css/vitality-yayla.css 
 
 
 
