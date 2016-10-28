@@ -728,7 +728,7 @@ aside.cta-quote span.quote {
   box-shadow: none;
   border: none;
   min-height: 100%;
-  padding: 100px 0;
+  padding: 0px 0;
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
@@ -1194,4 +1194,63 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 }
 #themes a {
   color: black;
+}
+.mixitlist .text-category {
+  font-size: 1.5em !important;
+  font-weight: 500;
+}
+.portfolio-modal img.background {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: auto;
+  opacity: 0.07;
+}
+.portfolio-modal h2 {
+  color: black;
+}
+.portfolio-modal .close-modal {
+  color: darkgreen;
+  background-color: black;
+}
+.portfolio-modal .modal-content {
+  color: black;
+}
+.portfolio-modal .theme-header img {
+  padding: 5px;
+  border: 1px solid lightgrey;
+  background-color: white;
+  width: 120px;
+}
+.portfolio-modal .lesen iframe {
+  max-width: 100%;
+  width: 800px;
+  height: 1000px;
+  border: 1px solid lightgrey;
+}
+.portfolio-modal .werkstatt-content li.active a {
+  background: linear-gradient(#93ce68, #68b997);
+  font-weight: 400;
+}
+.portfolio-modal .werkstatt-content .top-button {
+  float: right;
+  margin-top: -70px;
+  margin-right: -30px;
+}
+.portfolio-modal .werkstatt-content li a {
+  color: black;
+}
+.portfolio-modal .werkstatt-content .theme-red h3,
+.portfolio-modal .werkstatt-content .theme-red i {
+  color: #141161;
+}
+.portfolio-modal .werkstatt-content .theme-green h3,
+.portfolio-modal .werkstatt-content .theme-green i {
+  color: #033B12;
+}
+.portfolio-modal .werkstatt-content .theme-blue h3,
+.portfolio-modal .werkstatt-content .theme-blue i {
+  color: #6B0503;
 }

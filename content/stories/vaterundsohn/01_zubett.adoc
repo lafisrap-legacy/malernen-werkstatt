@@ -5,7 +5,7 @@
 ==== .
 image::01_zubett_01.jpg[]
 [n]#Vater# [vo]#bringt# [a]#Sohn# [paa]#ins# [paa_]#Bett.#
-[n]#Er# [vo]#sagt#: „[vo]#Mach# [ozg]#schön# [vo]#die Augen# [v]#zu!# [vo]#Schlaf# [v]#ein!# [a]#Gute Nacht!“#
+[n]#Er# [vo]#sagt#: „[vo]#Mach# [ozg]#schön# [a]#die Augen# [v]#zu!# [vo]#Schlaf# [v]#ein!# [a]#Gute Nacht!“#
 
 ==== .
 image::01_zubett_02.jpg[]
