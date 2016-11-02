@@ -18,6 +18,9 @@ image::01_Loewe.png[Löwe, 60, *, link="#Loewe"]
 .Polizist
 image::01_Polizist.png[Polizist, 60, *, link="#Polizist"]
 
+.Vogel
+image::01_Vogel.png[Vogel, 60, *, link="#Vogel"]
+
 <<<
 [[Mann]]
 == Der Mann
@@ -149,3 +152,36 @@ image::01_Loewe.png[]
 [n]#Ich# [vo]#gehe.# +
 [n]#Ich# [vo]#winke# [d]#dem Löwen.# +
 [n]#Das# [vo]#ist# [n]#das Foto# [g]#des Löwen.#
+
+[[Vogel]]
+== Der Vogel
+
+image::01_Vogel.png[]
+[cols="2*"]
+|===
+|[n]#der Vogel#
+|[n]#er#
+
+|[a]#den Vogel#
+|[a]#ihn#
+
+|[d]#dem Vogel#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Vogels#
+|[n]#sein Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#ein Vogel.# +
+[n]#Ich# [vo]#sehe# [a]#den Vogel.# +
+[n]#Ich# [vo]#kenne# [a]#den Vogel.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Vogel# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#den Vogel.# +
+[n]#Ich# [vo]#frage# [a]#den Vogel,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#den Vogel.# +
+[n]#Ich# [vo]#danke# [d]#dem Vogel.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Vogel.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Vogel.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Vogels.#
+<<<

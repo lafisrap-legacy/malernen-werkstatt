@@ -1,8 +1,25 @@
 :last-update-label!:
 :imagesdir: images
+:figure-caption: Schleife
 
-=== Schleife - Kind
-==== .
+
+[.inhalt]
+== Inhalt
+
+.Kind
+image::03_Kind.png[Kind, 60, *, link="#Kind"]
+
+.Drachenkind
+image::03_Drachenkind.png[Drachenkind, 90, *, link="#Drachenkind"]
+
+.Monsterkind
+image::03_Monsterkind.png[Monsterkind, 60, *, link="#Monsterkind"]
+
+
+<<<
+[[Kind]]
+== Das Kind
+
 image::03_Kind.png[]
 [cols="2*"]
 |===
@@ -19,30 +36,82 @@ image::03_Kind.png[]
 |[n]#sein Foto#
 |===
 
-==== .
-[n]#Das# [vo]#ist# [n]#ein Kind.#
-
-[n]#Ich# [vo]#sehe# [a]#das Kind.#
-
-[n]#Ich# [vo]#kenne# [a]#das Kind.#
-
-[n]#Ich# [vo]#gehe# [d]#zu dem Kind# [vo]#hin.#
-
-[n]#Ich# [vo]#begrüße# [a]#das Kind.#
-
-[n]#Ich# [vo]#frage# [a]#das Kind,# ob [n]#ich# [a]#es# [v]#fotografieren# [vo]#darf.#
-
-[n]#Ich# [vo]#fotografiere# [a]#das Kind.#
-
-[n]#Ich# [vo]#danke# [d]#dem Kind.#
-
-[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Kind.#
-
-[n]#Ich# [vo]#gehe.#
-
-[n]#Ich# [vo]#winke# [d]#dem Kind.#
-
+[n]#Das# [vo]#ist# [n]#ein Kind.# +
+[n]#Ich# [vo]#sehe# [a]#das Kind.# +
+[n]#Ich# [vo]#kenne# [a]#das Kind.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Kind# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#das Kind.# +
+[n]#Ich# [vo]#frage# [a]#das Kind,# ob [n]#ich# [a]#es# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#das Kind.# +
+[n]#Ich# [vo]#danke# [d]#dem Kind.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Kind.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Kind.# +
 [n]#Das# [vo]#ist# [n]#das Foto# [g]#des Kindes.#
+<<<
 
+[[Monsterkind]]
+== Das Monsterkind
 
+image::03_Monsterkind.png[]
+[cols="2*"]
+|===
+|[n]#das Monsterkind#
+|[n]#es#
 
+|[a]#das Monsterkind#
+|[a]#es#
+
+|[d]#dem Monsterkind#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Monsterkindes#
+|[n]#sein Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#ein Monsterkind.# +
+[n]#Ich# [vo]#sehe# [a]#das Monsterkind.# +
+[n]#Ich# [vo]#kenne# [a]#das Monsterkind.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Monsterkind# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#das Monsterkind.# +
+[n]#Ich# [vo]#frage# [a]#das Monsterkind,# ob [n]#ich# [a]#es# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#das Monsterkind.# +
+[n]#Ich# [vo]#danke# [d]#dem Monsterkind.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Monsterkind.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Monsterkind.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Monsterkindes.#
+<<<
+
+[[Drachenkind]]
+== Das Drachenkind
+
+image::03_Drachenkind.png[]
+[cols="2*"]
+|===
+|[n]#das Drachenkind#
+|[n]#es#
+
+|[a]#das Drachenkind#
+|[a]#es#
+
+|[d]#dem Drachenkind#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Drachenkindes#
+|[n]#sein Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#ein Drachenkind.# +
+[n]#Ich# [vo]#sehe# [a]#das Drachenkind.# +
+[n]#Ich# [vo]#kenne# [a]#das Drachenkind.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Drachenkind# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#das Drachenkind.# +
+[n]#Ich# [vo]#frage# [a]#das Drachenkind,# ob [n]#ich# [a]#es# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#das Drachenkind.# +
+[n]#Ich# [vo]#danke# [d]#dem Drachenkind.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Drachenkind.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Drachenkind.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Drachenkindes.#
+<<<

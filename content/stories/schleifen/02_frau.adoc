@@ -1,8 +1,27 @@
 :last-update-label!:
 :imagesdir: images
+:figure-caption: Schleife
 
-=== Schleife - Frau
-==== .
+
+[.inhalt]
+== Inhalt
+
+.Frau
+image::02_Frau.png[Frau, 60, *, link="#Frau"]
+
+.Jacke
+image::02_Jacke.png[Jacke, 90, *, link="#Jacke"]
+
+.Katze
+image::02_Katze.png[Katze, 60, *, link="#Katze"]
+
+.Königin
+image::02_Koenigin.png[Königin, 60, *, link="#Königin"]
+
+<<<
+[[Frau]]
+== Die Frau
+
 image::02_Frau.png[]
 [cols="2*"]
 |===
@@ -19,30 +38,117 @@ image::02_Frau.png[]
 |[n]#ihr Foto#
 |===
 
-==== .
-[n]#Das# [vo]#ist# [n]#eine Frau.#
-
-[n]#Ich# [vo]#sehe# [a]#die Frau.#
-
-[n]#Ich# [vo]#kenne# [a]#die Frau.#
-
-[n]#Ich# [vo]#gehe# [d]#zu der Frau# [vo]#hin.#
-
-[n]#Ich# [vo]#begrüße# [a]#die Frau.#
-
-[n]#Ich# [vo]#frage# [a]#die Frau,# ob [n]#ich# [a]#sie# [v]#fotografieren# [vo]#darf.#
-
-[n]#Ich# [vo]#fotografiere# [a]#die Frau.#
-
-[n]#Ich# [vo]#danke# [d]#der Frau.#
-
-[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#der Frau.#
-
-[n]#Ich# [vo]#gehe.#
-
-[n]#Ich# [vo]#winke# [d]#der Frau.#
-
+[n]#Das# [vo]#ist# [n]#eine Frau.# +
+[n]#Ich# [vo]#sehe# [a]#die Frau.# +
+[n]#Ich# [vo]#kenne# [a]#die Frau.# +
+[n]#Ich# [vo]#gehe# [d]#zu der Frau# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#die Frau.# +
+[n]#Ich# [vo]#frage# [a]#die Frau,# ob [n]#ich# [a]#sie# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#die Frau.# +
+[n]#Ich# [vo]#danke# [d]#der Frau.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#der Frau.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#der Frau.# +
 [n]#Das# [vo]#ist# [n]#das Foto# [g]#der Frau.#
+<<<
+
+[[Jacke]]
+== Die Jacke
+
+image::02_Jacke.png[]
+[cols="2*"]
+|===
+|[n]#die Jacke#
+|[n]#sie#
+
+|[a]#die Jacke#
+|[a]#sie#
+
+|[d]#der Jacke#
+|[d]#ihr#
+
+|[n]#Foto# [g]#der Jacke#
+|[n]#ihr Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#eine Jacke.# +
+[n]#Ich# [vo]#sehe# [a]#die Jacke.# +
+[n]#Ich# [vo]#kenne# [a]#die Jacke.# +
+[n]#Ich# [vo]#gehe# [d]#zu der Jacke# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#die Jacke.# +
+[n]#Ich# [vo]#frage# [a]#die Jacke,# ob [n]#ich# [a]#sie# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#die Jacke.# +
+[n]#Ich# [vo]#danke# [d]#der Jacke.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#der Jacke.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#der Jacke.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#der Jacke.#
+<<<
+
+[[Katze]]
+== Die Katze
+
+image::02_Katze.png[]
+[cols="2*"]
+|===
+|[n]#die Katze#
+|[n]#sie#
+
+|[a]#die Katze#
+|[a]#sie#
+
+|[d]#der Katze#
+|[d]#ihr#
+
+|[n]#Foto# [g]#der Katze#
+|[n]#ihr Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#eine Katze.# +
+[n]#Ich# [vo]#sehe# [a]#die Katze.# +
+[n]#Ich# [vo]#kenne# [a]#die Katze.# +
+[n]#Ich# [vo]#gehe# [d]#zu der Katze# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#die Katze.# +
+[n]#Ich# [vo]#frage# [a]#die Katze,# ob [n]#ich# [a]#sie# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#die Katze.# +
+[n]#Ich# [vo]#danke# [d]#der Katze.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#der Katze.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#der Katze.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#der Katze.#
+<<<
 
 
+[[Königin]]
+== Die Königin
+
+image::02_Koenigin.png[]
+[cols="2*"]
+|===
+|[n]#die Königin#
+|[n]#sie#
+
+|[a]#die Königin#
+|[a]#sie#
+
+|[d]#der Königin#
+|[d]#ihr#
+
+|[n]#Foto# [g]#der Königin#
+|[n]#ihr Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#eine Königin.# +
+[n]#Ich# [vo]#sehe# [a]#die Königin.# +
+[n]#Ich# [vo]#kenne# [a]#die Königin.# +
+[n]#Ich# [vo]#gehe# [d]#zu der Königin# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#die Königin.# +
+[n]#Ich# [vo]#frage# [a]#die Königin,# ob [n]#ich# [a]#sie# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#die Königin.# +
+[n]#Ich# [vo]#danke# [d]#der Königin.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#der Königin.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#der Königin.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#der Königin.#
+<<<
 

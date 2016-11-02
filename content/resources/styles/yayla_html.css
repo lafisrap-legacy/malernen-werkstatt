@@ -200,14 +200,19 @@ h3 {
     align-items: flex-end;
     margin: 5px;
     padding: 5px;
-    background: #ddd;
-    border: 1px solid #999;
+    background: #eee;
+    border: 1px solid #bbb;
     float: left;
     width: 150px;
     height: 100px;
     text-align: center;
     vertical-align: bottom;
 }
+
+.inhalt .imageblock .title {
+    margin-left: -25px;
+}
+
 
 .sect1 {
     clear:both;
