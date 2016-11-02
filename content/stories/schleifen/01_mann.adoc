@@ -1,8 +1,27 @@
 :last-update-label!:
 :imagesdir: images
+:figure-caption: Schleife
 
-=== Schleife - Mann
-==== .
+
+[.inhalt]
+== Inhalt
+
+.Mann
+image::01_Mann.png[Mann, 60, *, link="#Mann"]
+
+.Koch
+image::01_Koch.png[Koch, 60, *, link="#Koch"]
+
+.Löwe
+image::01_Loewe.png[Löwe, 60, *, link="#Loewe"]
+
+.Polizist
+image::01_Polizist.png[Polizist, 60, *, link="#Polizist"]
+
+<<<
+[[Mann]]
+== Der Mann
+
 image::01_Mann.png[]
 [cols="2*"]
 |===
@@ -19,30 +38,114 @@ image::01_Mann.png[]
 |[n]#sein Foto#
 |===
 
-==== .
-[n]#Das# [vo]#ist# [n]#ein Mann.#
-
-[n]#Ich# [vo]#sehe# [a]#den Mann.#
-
-[n]#Ich# [vo]#kenne# [a]#den Mann.#
-
-[n]#Ich# [vo]#gehe# [d]#zu dem Mann# [vo]#hin.#
-
-[n]#Ich# [vo]#begrüße# [a]#den Mann.#
-
-[n]#Ich# [vo]#frage# [a]#den Mann,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.#
-
-[n]#Ich# [vo]#fotografiere# [a]#den Mann.#
-
-[n]#Ich# [vo]#danke# [d]#dem Mann.#
-
-[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Mann.#
-
-[n]#Ich# [vo]#gehe.#
-
-[n]#Ich# [vo]#winke# [d]#dem Mann.#
-
+[n]#Das# [vo]#ist# [n]#ein Mann.# +
+[n]#Ich# [vo]#sehe# [a]#den Mann.# +
+[n]#Ich# [vo]#kenne# [a]#den Mann.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Mann# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#den Mann.# +
+[n]#Ich# [vo]#frage# [a]#den Mann,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#den Mann.# +
+[n]#Ich# [vo]#danke# [d]#dem Mann.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Mann.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Mann.# +
 [n]#Das# [vo]#ist# [n]#das Foto# [g]#des Mannes.#
+<<<
 
+[[Koch]]
+== Der Koch
 
+image::01_Koch.png[]
+[cols="2*"]
+|===
+|[n]#der Koch#
+|[n]#er#
 
+|[a]#den Koch#
+|[a]#ihn#
+
+|[d]#dem Koch#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Koches#
+|[n]#sein Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#ein Koch.# +
+[n]#Ich# [vo]#sehe# [a]#den Koch.# +
+[n]#Ich# [vo]#kenne# [a]#den Koch.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Koch# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#den Koch.# +
+[n]#Ich# [vo]#frage# [a]#den Koch,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#den Koch.# +
+[n]#Ich# [vo]#danke# [d]#dem Koch.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Koch.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Koch.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Koches.#
+<<<
+
+[[Polizist]]
+== Der Polizist
+
+image::01_Polizist.png[]
+[cols="2*"]
+|===
+|[n]#der Polizist#
+|[n]#er#
+
+|[a]#den Polizist#
+|[a]#ihn#
+
+|[d]#dem Polizist#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Polizisten#
+|[n]#sein Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#ein Polizist.# +
+[n]#Ich# [vo]#sehe# [a]#den Polizist.# +
+[n]#Ich# [vo]#kenne# [a]#den Polizist.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Polizist# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#den Polizist.# +
+[n]#Ich# [vo]#frage# [a]#den Polizist,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#den Polizist.# +
+[n]#Ich# [vo]#danke# [d]#dem Polizist.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Polizist.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Polizist.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Polizisten.#
+<<<
+
+[[Loewe]]
+== Der Löwe
+
+image::01_Loewe.png[]
+[cols="2*"]
+|===
+|[n]#der Löwe#
+|[n]#er#
+
+|[a]#den Löwen#
+|[a]#ihn#
+
+|[d]#dem Löwen#
+|[d]#ihm#
+
+|[n]#Foto# [g]#des Löwen#
+|[n]#sein Foto#
+|===
+
+[n]#Das# [vo]#ist# [n]#ein Löwe.# +
+[n]#Ich# [vo]#sehe# [a]#den Löwen.# +
+[n]#Ich# [vo]#kenne# [a]#den Löwen.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Löwen# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#den Löwen.# +
+[n]#Ich# [vo]#frage# [a]#den Löwen,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#den Löwen.# +
+[n]#Ich# [vo]#danke# [d]#dem Löwen.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Löwen.# +
+[n]#Ich# [vo]#gehe.# +
+[n]#Ich# [vo]#winke# [d]#dem Löwen.# +
+[n]#Das# [vo]#ist# [n]#das Foto# [g]#des Löwen.#

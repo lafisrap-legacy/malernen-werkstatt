@@ -25,7 +25,7 @@ vitality-yayla.css: $(shell ls less)
 
 vaterundsohn_01_zubett.html: 01_zubett.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/vaterundsohn/01_zubett.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_01_zubett.html
-	tidy -config content/resources/.tidy -output public/html/vaterundsohn_01_zubett.html public/html/vaterundsohn_01_zubett.html  
+	#tidy -config content/resources/.tidy -output public/html/vaterundsohn_01_zubett.html public/html/vaterundsohn_01_zubett.html  
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/01* public/html/images
 	cp -r content/resources/images/markup public/html/images
 
@@ -37,7 +37,7 @@ vaterundsohn_01_zubett.mobi: 01_zubett.adoc $(ls content/stories/vaterundsohn/im
 
 vaterundsohn_02_vorbilder.html: 02_vorbilder.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/vaterundsohn/02_vorbilder.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_02_vorbilder.html
-	tidy -config content/resources/.tidy -output public/html/vaterundsohn_02_vorbilder.html public/html/vaterundsohn_02_vorbilder.html  
+	#tidy -config content/resources/.tidy -output public/html/vaterundsohn_02_vorbilder.html public/html/vaterundsohn_02_vorbilder.html  
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/02* public/html/images
 	cp -r content/resources/images/markup public/html/images
 
@@ -49,7 +49,7 @@ vaterundsohn_02_vorbilder.mobi: 02_vorbilder.adoc $(ls content/stories/vaterunds
 
 vaterundsohn_03_dergute.html: 03_dergute.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/vaterundsohn/03_dergute.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_03_dergute.html
-	tidy -config content/resources/.tidy -output public/html/vaterundsohn_03_dergute.html public/html/vaterundsohn_03_dergute.html  
+	#tidy -config content/resources/.tidy -output public/html/vaterundsohn_03_dergute.html public/html/vaterundsohn_03_dergute.html  
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/03* public/html/images
 	cp -r content/resources/images/markup public/html/images
 
@@ -63,7 +63,7 @@ vaterundsohn_03_dergute.mobi: 03_dergute.adoc $(ls content/stories/vaterundsohn/
 
 schleife_01_mann.html: 01_mann.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/schleifen/01_mann.adoc -a stylesheet=../../resources/styles/yayla_html.css -o schleife_01_mann.html
-	tidy -config content/resources/.tidy -output public/html/schleife_01_mann.html public/html/schleife_01_mann.html  
+	#tidy -config content/resources/.tidy -output public/html/schleife_01_mann.html public/html/schleife_01_mann.html  
 	mkdir -p public/html/images && cp content/stories/schleifen/images/01* public/html/images
 	cp -r content/resources/images/markup public/html/images
 
@@ -76,7 +76,7 @@ schleife_01_mann.mobi: 01_mann.adoc $(ls content/stories/schleifen/images/01*)
 
 schleife_02_frau.html: 02_frau.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/schleifen/02_frau.adoc -a stylesheet=../../resources/styles/yayla_html.css -o schleife_02_frau.html
-	tidy -config content/resources/.tidy -output public/html/schleife_02_frau.html public/html/schleife_02_frau.html  
+	#tidy -config content/resources/.tidy -output public/html/schleife_02_frau.html public/html/schleife_02_frau.html  
 	mkdir -p public/html/images && cp content/stories/schleifen/images/02* public/html/images
 	cp -r content/resources/images/markup public/html/images
 
@@ -89,7 +89,7 @@ schleife_02_frau.mobi: 02_frau.adoc $(ls content/stories/schleifen/images/01*)
 
 schleife_03_kind.html: 03_kind.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
 	asciidoctor -D public/html content/stories/schleifen/03_kind.adoc -a stylesheet=../../resources/styles/yayla_html.css -o schleife_03_kind.html
-	tidy -config content/resources/.tidy -output public/html/schleife_03_kind.html public/html/schleife_03_kind.html  
+	#tidy -config content/resources/.tidy -output public/html/schleife_03_kind.html public/html/schleife_03_kind.html  
 	mkdir -p public/html/images && cp content/stories/schleifen/images/03* public/html/images
 	cp -r content/resources/images/markup public/html/images
 
@@ -110,9 +110,10 @@ booklet_01.pdf: vaterundsohn_01_zubett.html\
 				content/booklets/booklet_01.adoc content/booklets/booklet_01_back.adoc content/resources/styles/yayla_title.css
 	asciidoctor -D public/html content/booklets/booklet_01.adoc -a stylesheet=../resources/styles/yayla_title.css -o booklet_01.html
 	asciidoctor -D public/html content/booklets/booklet_01_back.adoc -a stylesheet=../resources/styles/yayla_title.css -o booklet_01_back.html
-	tidy -config content/resources/.tidy -output public/html/booklet_01.html public/html/booklet_01.html  
-	tidy -config content/resources/.tidy -output public/html/booklet_01_back.html public/html/booklet_01_back.html  
+	#tidy -config content/resources/.tidy -output public/html/booklet_01.html public/html/booklet_01.html  
+	#tidy -config content/resources/.tidy -output public/html/booklet_01_back.html public/html/booklet_01_back.html  
 	mkdir -p public/html/images && cp content/booklets/images/01* public/html/images
+	mkdir -p public/pdf
 	wkhtmltopdf --page-size A5 --footer-font-size 8 --footer-font-name "Bitstream Charter" --footer-center [page] --footer-left "ma'lernen Werkstatt"\
 		cover public/html/booklet_01.html\
 		public/html/vaterundsohn_01_zubett.html\

@@ -147,7 +147,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #b3ce48;
+  border-color: #48b9b7;
 }
 @media (min-width: 768px) {
   hr {
@@ -280,7 +280,7 @@ header .brand-name {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
-  color: #48b9b7;
+  color: #419695;
   font-size: 55px;
   line-height: 55px;
   -text-transform: uppercase;
@@ -291,9 +291,9 @@ header .brand-name .handwriting {
   font-family: "Indie Flower", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 header .brand-name-subtext {
-  font-size: 20px;
+  font-size: 25px;
   line-height: 20px;
-  font-weight: 300;
+  font-weight: 500;
 }
 header img {
   max-width: 150px;
@@ -348,7 +348,7 @@ header .scroll-down .btn:hover {
     line-height: 80px;
   }
   header .brand-name-subtext {
-    font-size: 30px;
+    font-size: 35px;
     line-height: 30px;
   }
   header img {

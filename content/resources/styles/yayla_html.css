@@ -192,3 +192,37 @@ h3 {
     background-image: url(images/markup/roterstrich.png);
     display: inline-block;
 }
+
+
+.inhalt .imageblock {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    padding: 5px;
+    background: #ddd;
+    border: 1px solid #999;
+    float: left;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.sect1 {
+    clear:both;
+    margin-top: 50px;
+}
+
+.sect1 table {
+    border: 1px solid lightgrey;
+}
+
+.sect1 .tableblock p {
+    line-height: 120%;
+}
+
+.sect1 td {
+    border-right: 1px solid grey;
+    padding: 5px;
+}
