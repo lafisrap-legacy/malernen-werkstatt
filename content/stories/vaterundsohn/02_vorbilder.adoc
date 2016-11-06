@@ -34,4 +34,4 @@ image::02_vorbilder_05.jpg[]
 ==== .
 image::02_vorbilder_06.jpg[]
 [ozg]#Oh je,# [n]#die großen Männer# [vo]#prügeln# [a]#sich# [pan]#wie# [pan_]#die kleinen# [pan_]#Kinder#.
-Aber [n]#Sohn und sein# [n]#Freund Hugo# [vo]#spielen# [ozg]#schon längst wieder# [v]#zusammen# [pad]#mit# [pad_]#ihren Murmeln#.
+Aber [n]#Sohn und sein Freund Hugo# [vo]#spielen# [ozg]#schon längst wieder# [v]#zusammen# [pad]#mit# [pad_]#ihren Murmeln#.
