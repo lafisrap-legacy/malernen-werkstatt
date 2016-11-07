@@ -54,4 +54,15 @@ $( function() {
 	$( ".portfolio-modal .page iframe").load( function() {
 		$( this )[0].contentWindow.$ && $( this )[0].contentWindow.$( "canvas" ).trigger('stopProgram');
 	});
+
+/*
+	$(".concept-frame").bind("mousewheel", function(e) {
+        if(e.originalEvent.wheelDelta / 120 > 0) {
+            if
+        }
+        else{
+            $(this).text('scrolling down !');
+        }
+    });
+*/
 });

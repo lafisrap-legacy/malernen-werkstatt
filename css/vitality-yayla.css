@@ -1265,14 +1265,15 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   color: #6B0503;
 }
 section#concept .title {
-  margin-top: -6vw;
-  margin-bottom: -1vw;
+  margin-top: -7vw;
+  margin-bottom: -0.5vw;
   text-align: center;
 }
 section#concept .title span {
-  color: #333;
-  font-size: 5vw;
+  color: #b3ce48;
+  font-size: 4vw;
   font-weight: 900;
+  opacity: 0.4;
 }
 section#concept .testimonial-info {
   width: 90%;
@@ -1284,8 +1285,8 @@ section#concept .concept-frame {
   overflow-y: scroll;
   color: black;
   width: 90%;
-  max-width: 900px;
-  height: 600px;
+  max-width: 1100px;
+  height: 700px;
   background-color: #FAFAE3;
   margin: 0 auto;
   padding: 25px;
@@ -1296,14 +1297,14 @@ section#concept .concept-frame h4 {
   color: #bbb;
 }
 section#concept .concept-frame h2 {
-  font-size: 2.5em;
+  font-size: 1.8em;
 }
 section#concept .concept-frame h3 {
-  font-size: 2.2em;
+  font-size: 1.6em;
 }
 section#concept .concept-frame h4 {
-  margin-top: 60px;
-  font-size: 2em;
+  margin-top: 40px;
+  font-size: 1.4em;
 }
 section#concept .concept-frame p,
 section#concept .concept-frame li {
