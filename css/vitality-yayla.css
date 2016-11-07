@@ -19,6 +19,10 @@ section {
   background-color: #48b9b7;
   background: linear-gradient(#b3ce48, #48b9b7);
 }
+.bg-black {
+  color: white;
+  background-color: black;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
@@ -1259,4 +1263,51 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 .portfolio-modal .werkstatt-content .theme-blue h3,
 .portfolio-modal .werkstatt-content .theme-blue i {
   color: #6B0503;
+}
+section#concept .title {
+  margin-top: -6vw;
+  margin-bottom: -1vw;
+  text-align: center;
+}
+section#concept .title span {
+  color: #333;
+  font-size: 5vw;
+  font-weight: 900;
+}
+section#concept .testimonial-info {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 20px;
+}
+section#concept .concept-frame {
+  overflow-y: scroll;
+  color: black;
+  width: 90%;
+  max-width: 900px;
+  height: 600px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 25px;
+}
+section#concept .concept-frame h2,
+section#concept .concept-frame h3,
+section#concept .concept-frame h4 {
+  color: #bbb;
+}
+section#concept .concept-frame h2 {
+  font-size: 2.5em;
+}
+section#concept .concept-frame h3 {
+  font-size: 2.2em;
+}
+section#concept .concept-frame h4 {
+  margin-top: 60px;
+  font-size: 2em;
+}
+section#concept .concept-frame p,
+section#concept .concept-frame li {
+  font-size: 1.45em;
+  line-height: 1.7em;
+  text-align: left;
 }

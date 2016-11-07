@@ -23,7 +23,7 @@ alltopics: 	vaterundsohn_01_zubett.html vaterundsohn_01_zubett.epub vaterundsohn
 vitality-yayla.css: $(shell ls less)
 	lessc less/vitality.less css/vitality-yayla.css 
 
-vaterundsohn_01_zubett.html: 01_zubett.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
+vaterundsohn_01_zubett.html: 01_zubett.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css 
 	asciidoctor -D public/html content/stories/vaterundsohn/01_zubett.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_01_zubett.html
 	#tidy -config content/resources/.tidy -output public/html/vaterundsohn_01_zubett.html public/html/vaterundsohn_01_zubett.html  
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/01* public/html/images
