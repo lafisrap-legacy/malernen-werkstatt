@@ -14,6 +14,14 @@ $( function() {
 			target = $( "." + relation, content ),
 			iframe = $( "iframe", target );
 
+		// Check if somebody wants to play with firefox
+		if( $( this ).hasClass( "li-spielen" ) && 
+			navigator.userAgent.toLowerCase().indexOf('firefox') > -1){
+			var url = iframe.attr( "src" );
+			window.open(url, '_blank');
+			return;
+		}
+
 		if( !$( this ).hasClass( "active" ) ) {
 			$( ".li-page", content ).removeClass( "active" );
 			$( this ).addClass( "active" );
