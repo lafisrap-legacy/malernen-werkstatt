@@ -108,16 +108,16 @@ image::01_Polizist.png[]
 |===
 
 [n]#Das# [vo]#ist# [n]#ein Polizist.# +
-[n]#Ich# [vo]#sehe# [a]#den Polizist.# +
-[n]#Ich# [vo]#kenne# [a]#den Polizist.# +
-[n]#Ich# [vo]#gehe# [d]#zu dem Polizist# [vo]#hin.# +
-[n]#Ich# [vo]#begrüße# [a]#den Polizist.# +
-[n]#Ich# [vo]#frage# [a]#den Polizist,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
-[n]#Ich# [vo]#fotografiere# [a]#den Polizist.# +
-[n]#Ich# [vo]#danke# [d]#dem Polizist.# +
-[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Polizist.# +
+[n]#Ich# [vo]#sehe# [a]#den Polizisten.# +
+[n]#Ich# [vo]#kenne# [a]#den Polizisten.# +
+[n]#Ich# [vo]#gehe# [d]#zu dem Polizisten# [vo]#hin.# +
+[n]#Ich# [vo]#begrüße# [a]#den Polizisten.# +
+[n]#Ich# [vo]#frage# [a]#den Polizisten,# ob [n]#ich# [a]#ihn# [v]#fotografieren# [vo]#darf.# +
+[n]#Ich# [vo]#fotografiere# [a]#den Polizisten.# +
+[n]#Ich# [vo]#danke# [d]#dem Polizisten.# +
+[n]#Ich# [vo]#verabschiede# [a]#mich# von [d]#dem Polizisten.# +
 [n]#Ich# [vo]#gehe.# +
-[n]#Ich# [vo]#winke# [d]#dem Polizist.# +
+[n]#Ich# [vo]#winke# [d]#dem Polizisten.# +
 [n]#Das# [vo]#ist# [n]#das Foto# [g]#des Polizisten.#
 <<<
 
