@@ -35,7 +35,7 @@ vaterundsohn_01_zubett.epub: 01_zubett.adoc $(ls content/stories/vaterundsohn/im
 vaterundsohn_01_zubett.mobi: 01_zubett.adoc $(ls content/stories/vaterundsohn/images/01*)
 	asciidoctor-epub3 -D public/epub -a ebook-format=kf8 content/stories/vaterundsohn/epub/01_zubett.adoc -o vaterundsohn_01_zubett-kf8.epub -o vaterundsohn_01_zubett.mobi > content/logs/vaterundsohn_01_zubett-kf8.log
 
-vaterundsohn_02_vorbilder.html: 02_vorbilder.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
+vaterundsohn_02_vorbilder.html: 02_vorbilder.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css
 	asciidoctor -D public/html content/stories/vaterundsohn/02_vorbilder.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_02_vorbilder.html
 	#tidy -config content/resources/.tidy -output public/html/vaterundsohn_02_vorbilder.html public/html/vaterundsohn_02_vorbilder.html  
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/02* public/html/images
@@ -47,7 +47,7 @@ vaterundsohn_02_vorbilder.epub: 02_vorbilder.adoc $(ls content/stories/vaterunds
 vaterundsohn_02_vorbilder.mobi: 02_vorbilder.adoc $(ls content/stories/vaterundsohn/images/01*)
 	asciidoctor-epub3 -D public/epub -a ebook-format=kf8 content/stories/vaterundsohn/epub/02_vorbilder.adoc -o vaterundsohn_02_vorbilder-kf8.epub -o vaterundsohn_02_vorbilder.mobi > content/logs/vaterundsohn_02_vorbilder-kf8.log
 
-vaterundsohn_03_dergute.html: 03_dergute.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
+vaterundsohn_03_dergute.html: 03_dergute.adoc content/stories/vaterundsohn/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css 
 	asciidoctor -D public/html content/stories/vaterundsohn/03_dergute.adoc -a stylesheet=../../resources/styles/yayla_html.css -o vaterundsohn_03_dergute.html
 	#tidy -config content/resources/.tidy -output public/html/vaterundsohn_03_dergute.html public/html/vaterundsohn_03_dergute.html  
 	mkdir -p public/html/images && cp content/stories/vaterundsohn/images/03* public/html/images
@@ -61,7 +61,7 @@ vaterundsohn_03_dergute.mobi: 03_dergute.adoc $(ls content/stories/vaterundsohn/
 
 
 
-schleife_01_mann.html: 01_mann.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
+schleife_01_mann.html: 01_mann.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css 
 	asciidoctor -D public/html content/stories/schleifen/01_mann.adoc -a stylesheet=../../resources/styles/yayla_html.css -o schleife_01_mann.html
 	#tidy -config content/resources/.tidy -output public/html/schleife_01_mann.html public/html/schleife_01_mann.html  
 	mkdir -p public/html/images && cp content/stories/schleifen/images/01* public/html/images
@@ -74,7 +74,7 @@ schleife_01_mann.mobi: 01_mann.adoc $(ls content/stories/schleifen/images/01*)
 	asciidoctor-epub3 -D public/epub -a ebook-format=kf8 content/stories/schleifen/epub/01_mann.adoc -o schleife_01_mann-kf8.epub -o schleife_01_mann.mobi > content/logs/schleife_01_mann-kf8.log
 
 
-schleife_02_frau.html: 02_frau.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
+schleife_02_frau.html: 02_frau.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css 
 	asciidoctor -D public/html content/stories/schleifen/02_frau.adoc -a stylesheet=../../resources/styles/yayla_html.css -o schleife_02_frau.html
 	#tidy -config content/resources/.tidy -output public/html/schleife_02_frau.html public/html/schleife_02_frau.html  
 	mkdir -p public/html/images && cp content/stories/schleifen/images/02* public/html/images
@@ -87,7 +87,7 @@ schleife_02_frau.mobi: 02_frau.adoc $(ls content/stories/schleifen/images/01*)
 	asciidoctor-epub3 -D public/epub -a ebook-format=kf8 content/stories/schleifen/epub/02_frau.adoc -o schleife_02_frau-kf8.epub -o schleife_02_frau.mobi > content/logs/schleife_02_frau-kf8.log
 
 
-schleife_03_kind.html: 03_kind.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css index.html
+schleife_03_kind.html: 03_kind.adoc content/stories/schleifen/images/* content/resources/images/markup/* content/resources/styles/yayla_html.css 
 	asciidoctor -D public/html content/stories/schleifen/03_kind.adoc -a stylesheet=../../resources/styles/yayla_html.css -o schleife_03_kind.html
 	#tidy -config content/resources/.tidy -output public/html/schleife_03_kind.html public/html/schleife_03_kind.html  
 	mkdir -p public/html/images && cp content/stories/schleifen/images/03* public/html/images

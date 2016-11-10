@@ -1265,15 +1265,15 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   color: #6B0503;
 }
 section#concept .title {
-  margin-top: -7vw;
-  margin-bottom: -0.5vw;
+  margin-top: -6vw;
+  margin-bottom: -1vw;
   text-align: center;
 }
 section#concept .title span {
   color: #b3ce48;
-  font-size: 4vw;
+  font-size: 6vw;
   font-weight: 900;
-  opacity: 0.4;
+  opacity: 0.2;
 }
 section#concept .testimonial-info {
   width: 90%;
@@ -1284,7 +1284,7 @@ section#concept .testimonial-info {
 section#concept .concept-frame {
   overflow-y: scroll;
   color: black;
-  width: 90%;
+  width: 100%;
   max-width: 1100px;
   height: 700px;
   background-color: #FAFAE3;
