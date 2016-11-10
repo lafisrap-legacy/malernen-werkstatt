@@ -97,10 +97,10 @@ image::01_Polizist.png[]
 |[n]#der Polizist#
 |[n]#er#
 
-|[a]#den Polizist#
+|[a]#den Polizisten#
 |[a]#ihn#
 
-|[d]#dem Polizist#
+|[d]#dem Polizisten#
 |[d]#ihm#
 
 |[n]#Foto# [g]#des Polizisten#
